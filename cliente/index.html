@@ -1,0 +1,123 @@
+<html>
+<header>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="./style.css">
+</header>
+
+<body>
+    <div class="card">
+        <h3>Selecione um prontuário (.txt) e clique em enviar</h3>
+
+        <form name="select_cliente_file">
+            <input type="file" id="input_file">
+            <br>
+            <button id="send_file" type="button">Enviar</button>
+        </form>
+    </div>
+
+
+    <div class="card table-card">
+        <table id="table">
+            <thead>
+                <tr>
+                    <td>Tamanho Original</td>
+                    <td>Tamanho Comprimido</td>
+                    <td>Diferença (chars)</td>
+                    <td>Diferença (%)</td>
+                </tr>
+            </thead>
+
+            <tbody id="tbody">
+
+            </tbody>
+        </table>
+    </div>
+
+</body>
+
+<script src="huffman.js"></script>
+<script src="converter.js"></script>
+<script src="portuguese-letter-frequency.js"></script>
+<script>
+    //Criando a árvore com o vocabulário padrão
+    const tree = trimtree(buildtree(sortfreq(portuguese_letter_frequency)));
+
+    const httpHeader = new Headers();
+    const fileReader = new FileReader();
+
+    //Configurando o header da requisição para enviar arquivos no formato json
+    // httpHeader.append("Content-Type", "multipart/form-data; boundary=----WebKitFormBoundaryp7MA4YWxkTrZu0gW");
+
+    //Criando a tabela de conversão binário para texto
+    assigncodes(tree);
+
+    document.getElementById("send_file").addEventListener("click", function () {
+        const file = document.forms['select_cliente_file']['input_file'].files[0];
+        const htmlTableBody = document.getElementById("tbody");
+        var textType = /text.*/;
+
+        if (file.type.match(textType)) {
+            fileReader.onload = (event) => {
+                const originalAsString = fileReader.result.toLowerCase();
+                originalAsBinary = encode(originalAsString);
+
+                //Esse passo é necessário para a sequencia binária ser de '8 em 8'
+                for (let i = 0; i < originalAsBinary.length % 8; i++)
+                    originalAsBinary += '0';
+
+                encodedAsString = binaryToString(originalAsBinary);
+                encodedAsBinary = stringToBinary(encodedAsString);
+
+                const data = new FormData()
+                data.append('file', new Blob([encodedAsString], {type : 'text/txt'}), 'joao cleber.txt') // o blob)
+                data.append('text', 'nome') // o blob)
+
+                //sending
+                const httpRequisition = {
+                    method: 'POST',
+                    headers: httpHeader,
+                    mode: 'cors',
+                    origin: '*',
+                    cache: 'default',
+                    body: data
+                };
+
+                const myRequest = new Request('http://localhost:3001/file', httpRequisition);
+
+                fetch(myRequest).then(response => response.blob())
+
+                //Just HTMl stuff
+                const row = document.createElement("tr");
+
+                const collumOne = document.createElement("td");
+                const collumTwo = document.createElement("td");
+                const collumThree = document.createElement("td");
+                const collumFour = document.createElement("td");
+
+                const txtOne = document.createTextNode(originalAsString.length);
+                const txtTwo = document.createTextNode(encodedAsString.length);
+                const txtThree = document.createTextNode(originalAsString.length - encodedAsString.length);
+                const txtFour = document.createTextNode(((originalAsString.length - encodedAsString.length) * 100 / (originalAsString.length)).toFixed(2));
+
+                collumOne.appendChild(txtOne);
+                collumTwo.appendChild(txtTwo);
+                collumThree.appendChild(txtThree);
+                collumFour.appendChild(txtFour);
+
+                row.appendChild(collumOne);
+                row.appendChild(collumTwo);
+                row.appendChild(collumThree);
+                row.appendChild(collumFour);
+                htmlTableBody.appendChild(row)
+
+            }
+
+            fileReader.readAsText(file);
+        } else {
+            fileDisplayArea.innerText = "File not supported!"
+        }
+
+    });
+</script>
+
+</html>
