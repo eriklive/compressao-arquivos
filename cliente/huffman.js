@@ -2,13 +2,12 @@ const codes = {};
 
 const frequency = (str) => {
     var freqs = {};
-    
+
     for (var i in str) {
-        if (freqs[str[i]] == undefined) {
+        if (freqs[str[i]] == undefined)
             freqs[str[i]] = 1;
-        } else {
+        else
             freqs[str[i]] = freqs[str[i]] + 1;
-        }
     }
 
     return freqs;
@@ -16,9 +15,10 @@ const frequency = (str) => {
 
 const sortfreq = (freqs) => {
     var tuples = [];
-    for (var let in freqs) {
+
+    for (var let in freqs)
         tuples.push([freqs[let], let]);
-    }
+
     return tuples.sort();
 }
 
@@ -34,6 +34,7 @@ const buildtree = (tuples) => {
         tuples.push(end)
         tuples.sort();
     }
+
     return tuples;
 }
 
@@ -43,6 +44,7 @@ const trimtree = (tuples) => {
 
 const assigncodes = (node, pat) => {
     pat = pat || "";
+
     if (typeof node == typeof "") {
         codes[node] = pat;
     } else {
@@ -63,19 +65,19 @@ const encode = (str) => {
 const decode = (tree, str) => {
     output = "";
     p = tree;
-    for (var bit in str) {
 
-        if (str[bit] == 0) {
+    for (var bit in str) {
+        if (str[bit] == 0)
             p = p[0]
-        }
-        else {
+        else
             p = p[1]
-        }
+
+
         if (typeof p == typeof "") {
             output = output + p
             p = tree
         }
     }
-    
+
     return output
 }
