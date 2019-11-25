@@ -2,11 +2,11 @@ const codes = {};
 
 const frequency = (str) => {
     var freqs = {};
+    
     for (var i in str) {
         if (freqs[str[i]] == undefined) {
             freqs[str[i]] = 1;
-        }
-        else {
+        } else {
             freqs[str[i]] = freqs[str[i]] + 1;
         }
     }

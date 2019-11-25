@@ -62,25 +62,8 @@
 
                 encodedAsString = binaryToString(originalAsBinary);
                 encodedAsBinary = stringToBinary(encodedAsString);
-
-                const data = new FormData()
-                data.append('file', new Blob([encodedAsString], {type : 'text/txt'}), 'joao cleber.txt') // o blob)
-                data.append('text', 'nome') // o blob)
-
-                //sending
-                const httpRequisition = {
-                    method: 'POST',
-                    headers: httpHeader,
-                    mode: 'cors',
-                    origin: '*',
-                    cache: 'default',
-                    body: data
-                };
-
-                const myRequest = new Request('http://localhost:3001/file', httpRequisition);
-
-                fetch(myRequest).then(response => response.blob())
-
+                console.log(codes);
+                
                 //Just HTMl stuff
                 const row = document.createElement("tr");
 
@@ -104,7 +87,6 @@
                 row.appendChild(collumThree);
                 row.appendChild(collumFour);
                 htmlTableBody.appendChild(row)
-
             }
 
             fileReader.readAsText(file);

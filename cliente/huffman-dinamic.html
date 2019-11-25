@@ -21,6 +21,8 @@
                 <tr>
                     <td>Tamanho Original (kB)</td>
                     <td>Tamanho Comprimido (kB)</td>
+                    <td>Original 01</td>
+                    <td>Encoded 01</td>
                     <td>Diferença (kB)</td>
                     <td>Diferença (%)</td>
                 </tr>
@@ -38,15 +40,11 @@
 <script src="converter.js"></script>
 <script src="portuguese-letter-frequency.js"></script>
 <script>
-    //Criando a árvore com o vocabulário padrão
-    const tree = trimtree(buildtree(sortfreq(portuguese_letter_frequency)));
-    const httpHeader = new Headers();
-    const fileReader = new FileReader();
-
     //Criando a tabela de conversão binário para texto
-    assigncodes(tree);
-
     document.getElementById("send_file").addEventListener("click", function () {
+        //Criando a árvore com o vocabulário padrão
+        const fileReader = new FileReader();
+
         const file = document.forms['select_cliente_file']['input_file'].files[0];
         const htmlTableBody = document.getElementById("tbody");
         var textType = /text.*/;
@@ -54,6 +52,15 @@
         if (file.type.match(textType)) {
             fileReader.onload = (event) => {
                 const originalAsString = fileReader.result.toLowerCase();
+                // const originalAsString ='On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.'
+                w = frequency(originalAsString);
+                console.log(w)
+                const tree = trimtree(buildtree(sortfreq(w)));
+
+                console.log(codes);
+                const httpHeader = new Headers();
+                assigncodes(tree);
+
                 originalAsBinary = encode(originalAsString);
 
                 //Esse passo é necessário para a sequencia binária ser de '8 em 8'
@@ -63,24 +70,6 @@
                 encodedAsString = binaryToString(originalAsBinary);
                 encodedAsBinary = stringToBinary(encodedAsString);
 
-                const data = new FormData()
-                data.append('file', new Blob([encodedAsString], {type : 'text/txt'}), 'joao cleber.txt') // o blob)
-                data.append('text', 'nome') // o blob)
-
-                //sending
-                const httpRequisition = {
-                    method: 'POST',
-                    headers: httpHeader,
-                    mode: 'cors',
-                    origin: '*',
-                    cache: 'default',
-                    body: data
-                };
-
-                const myRequest = new Request('http://localhost:3001/file', httpRequisition);
-
-                fetch(myRequest).then(response => response.blob())
-
                 //Just HTMl stuff
                 const row = document.createElement("tr");
 
@@ -88,21 +77,29 @@
                 const collumTwo = document.createElement("td");
                 const collumThree = document.createElement("td");
                 const collumFour = document.createElement("td");
+                const collumFive = document.createElement("td");
+                const collumSix = document.createElement("td");
 
-                const txtOne = document.createTextNode(originalAsString.length / 1000);
-                const txtTwo = document.createTextNode(encodedAsString.length / 1000);
-                const txtThree = document.createTextNode((originalAsString.length - encodedAsString.length) / 1000);
-                const txtFour = document.createTextNode(((originalAsString.length - encodedAsString.length) * 100 / (originalAsString.length)).toFixed(2));
+                const txtOne = document.createTextNode(originalAsString.length /1000);
+                const txtTwo = document.createTextNode(encodedAsString.length/1000);
+                const txtThree = document.createTextNode(originalAsString.length * 8);
+                const txtFour = document.createTextNode(encodedAsBinary.length);
+                const txtFive = document.createTextNode(originalAsBinary.length);
+                const txtSix = document.createTextNode(((originalAsString.length - encodedAsString.length) * 100 / (originalAsString.length)).toFixed(2));
 
                 collumOne.appendChild(txtOne);
                 collumTwo.appendChild(txtTwo);
                 collumThree.appendChild(txtThree);
                 collumFour.appendChild(txtFour);
+                collumFive.appendChild(txtFive);
+                collumSix.appendChild(txtSix);
 
                 row.appendChild(collumOne);
                 row.appendChild(collumTwo);
                 row.appendChild(collumThree);
-                row.appendChild(collumFour);
+                row.appendChild(txtFour);
+                row.appendChild(collumFive);
+                row.appendChild(collumSix);
                 htmlTableBody.appendChild(row)
 
             }

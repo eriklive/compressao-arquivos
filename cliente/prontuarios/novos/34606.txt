@@ -1,0 +1,217 @@
+01797
+Nome: Lionello
+Sobrenome: Donisi
+Data Nascimento: 25/02/1964
+Email: ldonisi0@redcross.org
+Gênero: Masculino
+CPF: 205-33-8995
+
+Data: 11/27/2018
+Médico: Diandra Lannon
+Reclamação: sapien placerat ante nulla
+Medicamento: Carbamazepine
+
+Data: 5/5/2019
+Médico: Webster Carreck
+Reclamação: amet eros suspendisse accumsan
+Medicamento: ropinirole hydrochloride
+
+Data: 6/26/2019
+Médico: Gregor Cops
+Reclamação: porta volutpat
+Medicamento: STOOL SOFTENER DOCUSATE SODIUM 50 MG
+
+Data: 3/28/2019
+Médico: Doug Parysiak
+Reclamação: augue
+Medicamento: Triamterene and Hydrochlorothiazide
+
+Data: 11/10/2019
+Médico: Essy Gilffillan
+Reclamação: est phasellus sit amet
+Medicamento: CLARINS BB Skin Perfecting Broad Spectrum SPF 25 Sunscreen 01 Light
+
+Data: 5/22/2019
+Médico: Gleda Ferandez
+Reclamação: consequat ut nulla
+Medicamento: NUCYNTA
+
+Data: 10/22/2019
+Médico: Frankie Deary
+Reclamação: consequat in consequat
+Medicamento: LBEL EFFET PARFAIT MINERAL NATURAL SKIN EFFECT MOUSSE FOUNDATION SPF 16
+
+Data: 4/27/2019
+Médico: Cristal Blakebrough
+Reclamação: amet eros suspendisse
+Medicamento: HYDROXYZINE HYDROCHLORIDE
+
+Data: 4/17/2019
+Médico: Dud Easson
+Reclamação: amet
+Medicamento: SEVERE COLD AND FLU RELIEF
+
+Data: 9/20/2019
+Médico: Seline Posnette
+Reclamação: amet lobortis sapien sapien
+Medicamento: Mometasone Furoate
+
+Data: 6/3/2019
+Médico: Annelise Tolworth
+Reclamação: suspendisse potenti cras in
+Medicamento: Leader Nite Time
+
+Data: 9/20/2019
+Médico: Junette Burn
+Reclamação: tempus semper
+Medicamento: GOOD NEIGHBOR PHARMACY CAPSAICIN
+
+Data: 9/6/2019
+Médico: Gerhardt Wroath
+Reclamação: id nisl
+Medicamento: Standardized Grass Pollen Fescue Meadow
+
+Data: 10/20/2019
+Médico: Theadora Benediktovich
+Reclamação: massa id nisl
+Medicamento: Didanosine
+
+Data: 6/30/2019
+Médico: Rock Calcutt
+Reclamação: ultrices vel
+Medicamento: Dicyclomine
+
+Data: 2/11/2019
+Médico: Nye Sheard
+Reclamação: dapibus nulla suscipit
+Medicamento: Atenolol
+
+Data: 8/17/2019
+Médico: Hamel Britcher
+Reclamação: varius nulla facilisi
+Medicamento: Trazodone Hydrochloride
+
+Data: 4/18/2019
+Médico: Jazmin Humberstone
+Reclamação: at lorem integer
+Medicamento: Retin-A MICRO
+
+Data: 9/25/2019
+Médico: Madelle Keat
+Reclamação: nibh
+Medicamento: PROVENCE FOUNDATION
+
+Data: 5/27/2019
+Médico: Rafaellle Beresford
+Reclamação: ut
+Medicamento: Flu Tonic
+
+Data: 8/4/2019
+Médico: Garrot Stickford
+Reclamação: elit proin interdum mauris
+Medicamento: Betamethasone Dipropionate
+
+Data: 8/26/2019
+Médico: Wynn Halton
+Reclamação: tincidunt nulla mollis
+Medicamento: Zetia
+
+Data: 10/20/2019
+Médico: Daune Van der Son
+Reclamação: pellentesque eget nunc
+Medicamento: Fungus Fighter
+
+Data: 3/23/2019
+Médico: Erminie Weatherall
+Reclamação: tempor convallis nulla
+Medicamento: Gentle Naturals
+
+Data: 9/12/2019
+Médico: Alexis Deas
+Reclamação: interdum eu tincidunt
+Medicamento: Clindamycin in 5 Percent Dextrose
+
+Data: 8/11/2019
+Médico: Lucho Duiguid
+Reclamação: mattis
+Medicamento: Desert Sage
+
+Data: 11/25/2018
+Médico: Bailey Fattorini
+Reclamação: massa id
+Medicamento: Western Juniper
+
+Data: 1/4/2019
+Médico: Tudor Soal
+Reclamação: pellentesque
+Medicamento: Medi First Sinus Pain and Pressure
+
+Data: 1/27/2019
+Médico: Brittany Hedden
+Reclamação: hac habitasse
+Medicamento: Paroxetine
+
+Data: 12/17/2018
+Médico: Wiatt Yearron
+Reclamação: ullamcorper augue
+Medicamento: Oxybutynin Chloride
+
+Data: 12/29/2018
+Médico: Hilliard Baff
+Reclamação: est congue elementum in
+Medicamento: Artalgia
+
+Data: 7/22/2019
+Médico: Eduino Whewill
+Reclamação: tellus
+Medicamento: Citrus and Olive Antibacterial Foaming Hand Wash
+
+Data: 4/11/2019
+Médico: Dena Collington
+Reclamação: ipsum
+Medicamento: BenGay Vanishing Scent
+
+Data: 2/15/2019
+Médico: Constantia Shulem
+Reclamação: tortor id nulla
+Medicamento: Gabapentin
+
+Data: 11/24/2018
+Médico: Annmaria Guisot
+Reclamação: ac est lacinia
+Medicamento: triple antibiotic
+
+Data: 4/6/2019
+Médico: Janka Di Francecshi
+Reclamação: penatibus et magnis
+Medicamento: Jantoven
+
+Data: 4/17/2019
+Médico: Lind Mowson
+Reclamação: lobortis
+Medicamento: Lidocaine Hydrochloride and Epinephrine
+
+Data: 10/30/2019
+Médico: Livia Saller
+Reclamação: quis augue luctus
+Medicamento: Etodolac
+
+Data: 4/13/2019
+Médico: Cully Nutbeem
+Reclamação: libero
+Medicamento: Hydromorphone Hydrochloride
+
+Data: 9/28/2019
+Médico: Karel De Simoni
+Reclamação: adipiscing
+Medicamento: Degree
+
+Data: 6/13/2019
+Médico: Grannie Apthorpe
+Reclamação: purus
+Medicamento: Cetirizine Hydrochloride
+
+Data: 8/19/2019
+Médico: Alicea Reynolds
+Reclamação: vestibulum sit
+Medicamento: Bacitracin Zinc and Polymyxin B Sulfate

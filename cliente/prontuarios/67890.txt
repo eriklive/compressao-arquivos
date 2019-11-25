@@ -1,0 +1,1457 @@
+67890
+Nome: Hermione
+Sobrenome: Richardes
+Data Nascimento: 07/09/1976
+Email: hrichardes5@reference.com
+Gênero: Feminino
+CPF: 713-64-3231
+
+Data: 5/26/2019
+Médico: Trula Kynforth
+Reclamação: fusce posuere felis sed
+Medicamento: Bupivacaine Hydrochloride
+
+Data: 7/29/2019
+Médico: Cassie Loades
+Reclamação: eu
+Medicamento: Zermat Kiwi with Fragrance
+
+Data: 9/4/2019
+Médico: Paulie Sobtka
+Reclamação: odio curabitur convallis duis
+Medicamento: Up and Up childrens ibuprofen
+
+Data: 3/30/2019
+Médico: Benton Locks
+Reclamação: dolor vel
+Medicamento: Food - Dairy Products Milk Whole Cow
+
+Data: 9/13/2019
+Médico: Corrine Mogg
+Reclamação: ac est
+Medicamento: Ampicillin and Sulbactam
+
+Data: 9/23/2019
+Médico: Tiff Bisley
+Reclamação: dis parturient
+Medicamento: Synalar
+
+Data: 10/7/2019
+Médico: Seth Broadbent
+Reclamação: posuere cubilia
+Medicamento: Candida albicans
+
+Data: 6/30/2019
+Médico: Jackie Rosenfelder
+Reclamação: augue vestibulum ante
+Medicamento: Cutiecaine
+
+Data: 6/30/2019
+Médico: Naoma Asel
+Reclamação: dui
+Medicamento: Molds Rusts and Smuts Stemphylium botryosum
+
+Data: 1/30/2019
+Médico: Ennis Rimell
+Reclamação: nam tristique tortor eu
+Medicamento: HZ Formula
+
+Data: 11/17/2019
+Médico: Marvin Ebbles
+Reclamação: porttitor lorem id
+Medicamento: day time
+
+Data: 6/12/2019
+Médico: Haley Maddison
+Reclamação: posuere cubilia curae donec
+Medicamento: Reglan
+
+Data: 9/19/2019
+Médico: Irvin Castree
+Reclamação: tincidunt
+Medicamento: Myorisan
+
+Data: 8/7/2019
+Médico: Jorry Gradon
+Reclamação: rhoncus sed vestibulum sit
+Medicamento: Loratadine
+
+Data: 7/19/2019
+Médico: Herbert Overel
+Reclamação: condimentum curabitur in libero
+Medicamento: Hand Sanitizer
+
+Data: 11/19/2019
+Médico: Verna Dilley
+Reclamação: proin risus
+Medicamento: nifedipine
+
+Data: 2/20/2019
+Médico: Talyah Reisin
+Reclamação: blandit
+Medicamento: FACE IT Radiance Two Way Cake NB21
+
+Data: 2/5/2019
+Médico: Sullivan Hambatch
+Reclamação: proin at turpis
+Medicamento: Aminosyn
+
+Data: 10/6/2019
+Médico: Carita Trewin
+Reclamação: vel est donec
+Medicamento: RESILIENCE LIFT FIRMING SCULPTING FACE AND NECK BROAD SPECTRUM SPF 15
+
+Data: 10/24/2019
+Médico: Davon Talman
+Reclamação: nec condimentum neque
+Medicamento: Men Dynamics
+
+Data: 4/8/2019
+Médico: Jayme Corss
+Reclamação: potenti nullam
+Medicamento: Sof Skin Vaporizing Chest Rub and Cough Suppressant
+
+Data: 8/16/2019
+Médico: Emyle Standidge
+Reclamação: maecenas tincidunt
+Medicamento: Methylphenidate Hydrochloride
+
+Data: 8/10/2019
+Médico: Esra Chartre
+Reclamação: neque
+Medicamento: Constipation
+
+Data: 12/8/2018
+Médico: Ollie Tithecote
+Reclamação: vel accumsan
+Medicamento: Defensol Adult Syrup
+
+Data: 12/4/2018
+Médico: Patton Matissoff
+Reclamação: morbi vel
+Medicamento: Rasuvo
+
+Data: 7/23/2019
+Médico: Kippy Abramovic
+Reclamação: eget tempus vel pede
+Medicamento: Thuja Thymus comp.
+
+Data: 8/14/2019
+Médico: Rochelle Ambler
+Reclamação: congue
+Medicamento: Amitriptyline Hydrochloride
+
+Data: 3/20/2019
+Médico: Halsey Robins
+Reclamação: turpis integer aliquet
+Medicamento: Zodryl DEC 60
+
+Data: 11/13/2019
+Médico: Ronald Rohloff
+Reclamação: ultrices posuere
+Medicamento: Atenolol
+
+Data: 12/11/2018
+Médico: Vilhelmina Sheringham
+Reclamação: sed sagittis nam congue
+Medicamento: Santalia Clinical Daily Cleanser
+
+Data: 8/28/2019
+Médico: Markos Campaigne
+Reclamação: semper
+Medicamento: Duck Meat
+
+Data: 1/8/2019
+Médico: Demetris Casone
+Reclamação: lacinia eget
+Medicamento: RAGWITEK
+
+Data: 6/22/2019
+Médico: Terrill Schutze
+Reclamação: non sodales
+Medicamento: Hydrochlorothiazide
+
+Data: 5/22/2019
+Médico: Saundra Paulillo
+Reclamação: nisl nunc rhoncus dui
+Medicamento: Niaspan
+
+Data: 8/21/2019
+Médico: Graeme Lowthian
+Reclamação: volutpat quam pede
+Medicamento: Gralise
+
+Data: 11/3/2019
+Médico: Rhonda MacGown
+Reclamação: eu
+Medicamento: Pollens - Weeds and Garden Plants Cocklebur Xanthium strumarium
+
+Data: 11/7/2019
+Médico: Raddie Lindenberg
+Reclamação: facilisi cras non
+Medicamento: Lamotrigine
+
+Data: 10/27/2019
+Médico: Eddi Hembery
+Reclamação: augue
+Medicamento: Business Elite Amenity
+
+Data: 9/29/2019
+Médico: Win Arr
+Reclamação: volutpat eleifend donec
+Medicamento: METFORMIN HYDROCHLORIDE
+
+Data: 11/25/2018
+Médico: Aidan Bendtsen
+Reclamação: massa id nisl venenatis
+Medicamento: Midazolam HCl
+
+Data: 5/30/2019
+Médico: Lorne Haliburton
+Reclamação: nulla
+Medicamento: PAMO Kill Natural
+
+Data: 8/30/2019
+Médico: Ashla Lob
+Reclamação: ultrices enim lorem ipsum
+Medicamento: Publix
+
+Data: 6/10/2019
+Médico: Jerrine Rushby
+Reclamação: primis
+Medicamento: MEDROX
+
+Data: 3/21/2019
+Médico: Starlin Aleavy
+Reclamação: quam
+Medicamento: Childrens ACCUDIAL
+
+Data: 4/13/2019
+Médico: Zerk Matsell
+Reclamação: congue vivamus metus arcu
+Medicamento: Tiger Balm
+
+Data: 12/13/2018
+Médico: Klara Vassbender
+Reclamação: nulla ultrices
+Medicamento: Pro-Tect SPF 30 Sunscreen
+
+Data: 11/5/2019
+Médico: Lia Dansken
+Reclamação: ornare consequat
+Medicamento: Neutrogena Rapid Clear 2 in 1 Fight and Fade Toner
+
+Data: 2/28/2019
+Médico: Andris Powling
+Reclamação: vitae nisi nam ultrices
+Medicamento: Zosyn
+
+Data: 9/12/2019
+Médico: Sena Lough
+Reclamação: tincidunt
+Medicamento: citroma
+
+Data: 2/22/2019
+Médico: Salomi Hartly
+Reclamação: lectus pellentesque
+Medicamento: Furosemide
+
+Data: 7/31/2019
+Médico: Tabby Aldersey
+Reclamação: non mattis pulvinar nulla
+Medicamento: Oxaliplatin
+
+Data: 11/24/2018
+Médico: Anet Brogioni
+Reclamação: turpis sed ante vivamus
+Medicamento: Risperidone
+
+Data: 9/10/2019
+Médico: Belicia Stiff
+Reclamação: sed tristique in tempus
+Medicamento: SaniGuard-SF
+
+Data: 11/18/2019
+Médico: Rurik Martensen
+Reclamação: tincidunt eu felis
+Medicamento: SEROQUEL
+
+Data: 8/6/2019
+Médico: Dionysus Canby
+Reclamação: luctus
+Medicamento: Loratadine
+
+Data: 8/23/2019
+Médico: Lonnard Buckler
+Reclamação: elit proin risus
+Medicamento: Dentox
+
+Data: 12/11/2018
+Médico: Mel Eicheler
+Reclamação: ligula in lacus curabitur
+Medicamento: TIZANIDINE HYDROCHLORIDE
+
+Data: 2/10/2019
+Médico: Jeffie Prickett
+Reclamação: nisl duis bibendum
+Medicamento: Stila Color Correcting Broad Spectrum SPF 20
+
+Data: 12/9/2018
+Médico: Aretha Poole
+Reclamação: in tempor turpis nec
+Medicamento: Mometasone Furoate
+
+Data: 4/10/2019
+Médico: Farrel Smalley
+Reclamação: vel augue vestibulum ante
+Medicamento: good sense pain relief
+
+Data: 3/27/2019
+Médico: Johnny Harkins
+Reclamação: integer aliquet massa id
+Medicamento: ESIKA HYDRACOLOR 2 IN 1 HIGHLY MOISTURIZING AND COLORING SPF 25
+
+Data: 1/14/2019
+Médico: Elroy Metcalfe
+Reclamação: fusce consequat nulla nisl
+Medicamento: CVS Medicated Chest Rub
+
+Data: 6/28/2019
+Médico: Webb Bier
+Reclamação: tempus semper
+Medicamento: Alcohol Prep Pad
+
+Data: 11/7/2019
+Médico: Brana Viney
+Reclamação: auctor sed tristique in
+Medicamento: esika MEN Control Fresh Deodorant and Antiperspirant
+
+Data: 11/19/2019
+Médico: Dian Giggs
+Reclamação: porttitor id consequat
+Medicamento: Glucotrol
+
+Data: 2/28/2019
+Médico: Khalil Chessum
+Reclamação: consequat lectus in est
+Medicamento: Ibuprofen
+
+Data: 6/27/2019
+Médico: Meta Athey
+Reclamação: vivamus vestibulum sagittis sapien
+Medicamento: Recens Foam
+
+Data: 7/28/2019
+Médico: Pete Deem
+Reclamação: nunc nisl duis
+Medicamento: Tobrex
+
+Data: 9/9/2019
+Médico: Kariotta Hatherley
+Reclamação: gravida sem praesent
+Medicamento: 3 CONCEPT EYES GLOSSING WATERFUL FOUNDATION SOFT BEIGE
+
+Data: 4/16/2019
+Médico: Drusilla Kraft
+Reclamação: enim leo rhoncus
+Medicamento: Cephalexin
+
+Data: 5/5/2019
+Médico: Birk Snodin
+Reclamação: tempus vivamus in felis
+Medicamento: Creomulsion
+
+Data: 12/7/2018
+Médico: Brad Worters
+Reclamação: sed nisl nunc rhoncus
+Medicamento: Sulfamethoxazole and Trimethoprim
+
+Data: 8/19/2019
+Médico: Ferdinand Gemeau
+Reclamação: rutrum ac
+Medicamento: Sprains Tendonitis
+
+Data: 5/15/2019
+Médico: Bond Doust
+Reclamação: pellentesque
+Medicamento: Sinutone
+
+Data: 7/22/2019
+Médico: Bell McReynolds
+Reclamação: rutrum rutrum
+Medicamento: Idole Skin Lightening
+
+Data: 3/10/2019
+Médico: Alexa Burgwin
+Reclamação: rhoncus
+Medicamento: Tri Previfem
+
+Data: 3/21/2019
+Médico: Sindee Gaymar
+Reclamação: quis turpis sed
+Medicamento: HYDROCHLOROTHIAZIDE
+
+Data: 3/15/2019
+Médico: Jorie Abramino
+Reclamação: cubilia curae nulla
+Medicamento: INDOMETHACIN
+
+Data: 11/28/2018
+Médico: Annie Wessel
+Reclamação: duis
+Medicamento: Smart Sense Sleep Aid
+
+Data: 8/15/2019
+Médico: Pandora Casale
+Reclamação: turpis sed
+Medicamento: equaline pain relief
+
+Data: 8/30/2019
+Médico: Layton Poynter
+Reclamação: nisi
+Medicamento: Pravastatin Sodium
+
+Data: 6/2/2019
+Médico: Benni Blunsom
+Reclamação: dui luctus rutrum nulla
+Medicamento: FNG
+
+Data: 10/12/2019
+Médico: Aura Skeen
+Reclamação: lectus
+Medicamento: pre fense
+
+Data: 10/25/2019
+Médico: Laurie Perring
+Reclamação: libero
+Medicamento: Meloxicam
+
+Data: 12/18/2018
+Médico: Valaree Surr
+Reclamação: ipsum dolor
+Medicamento: topcare flu and severe cold and cough
+
+Data: 10/24/2019
+Médico: Shea MacNeish
+Reclamação: condimentum id luctus
+Medicamento: Se-Natal 19
+
+Data: 8/21/2019
+Médico: Fernande Lewsey
+Reclamação: sem duis aliquam
+Medicamento: One Step Sanitizer
+
+Data: 9/27/2019
+Médico: Orville Skewes
+Reclamação: id sapien
+Medicamento: LBel
+
+Data: 7/25/2019
+Médico: Deva Mackin
+Reclamação: felis donec semper
+Medicamento: Speed Stick
+
+Data: 10/31/2019
+Médico: Elbertina Henke
+Reclamação: posuere felis
+Medicamento: AVAPRO
+
+Data: 2/8/2019
+Médico: Orelie Comley
+Reclamação: pede venenatis
+Medicamento: Calcium carbonate
+
+Data: 8/13/2019
+Médico: Edouard Seabourne
+Reclamação: suscipit nulla elit
+Medicamento: CARBOplatin
+
+Data: 7/28/2019
+Médico: Lutero Oglesbee
+Reclamação: fusce lacus
+Medicamento: KETOROLAC TROMETHAMINE
+
+Data: 3/21/2019
+Médico: Tony Addington
+Reclamação: sit
+Medicamento: Hydrogen Peroxide
+
+Data: 1/12/2019
+Médico: Ronica Littrik
+Reclamação: amet nulla
+Medicamento: Tickling Cough
+
+Data: 11/25/2018
+Médico: Clemmy Syde
+Reclamação: sociis natoque penatibus
+Medicamento: CAPRELSA
+
+Data: 6/4/2019
+Médico: Jacquelin Bloomfield
+Reclamação: tristique fusce congue
+Medicamento: risperidone
+
+Data: 7/22/2019
+Médico: Phip Hulett
+Reclamação: sapien varius ut blandit
+Medicamento: Bodyglide anti chafe balm
+
+Data: 2/27/2019
+Médico: Kenn Middas
+Reclamação: adipiscing elit proin risus
+Medicamento: ZIAGEN
+
+Data: 1/18/2019
+Médico: Sterne Honnicott
+Reclamação: gravida sem praesent
+Medicamento: Isomers Clear Skin Acne Treatment Lotion
+
+Data: 11/10/2019
+Médico: Rudyard de Clercq
+Reclamação: hac habitasse platea dictumst
+Medicamento: Coast Maple
+
+Data: 2/10/2019
+Médico: Poul Mainston
+Reclamação: libero
+Medicamento: pioglitazone hydrochloride
+
+Data: 8/23/2019
+Médico: Wrennie Dewfall
+Reclamação: erat
+Medicamento: Atgam
+
+Data: 7/31/2019
+Médico: Yvor Robichon
+Reclamação: lobortis convallis tortor risus
+Medicamento: Carbidopa and Levodopa
+
+Data: 3/26/2019
+Médico: Maegan Puttrell
+Reclamação: sit
+Medicamento: AHC Intense Contour Balm Light
+
+Data: 3/10/2019
+Médico: Conny Turone
+Reclamação: pede justo eu massa
+Medicamento: Orajel Antiseptic Rinse for Mouth Sores
+
+Data: 5/25/2019
+Médico: Kesley Coveney
+Reclamação: sollicitudin
+Medicamento: stila CC color correcting broad-spectrum SPF 20 08 TAN
+
+Data: 10/3/2019
+Médico: Richy Flea
+Reclamação: nonummy
+Medicamento: ENDOCET
+
+Data: 5/31/2019
+Médico: Torrin Demongeot
+Reclamação: consectetuer eget rutrum
+Medicamento: Myferon 150 Forte
+
+Data: 2/6/2019
+Médico: Pippo Sand
+Reclamação: ipsum primis
+Medicamento: Strattera
+
+Data: 9/11/2019
+Médico: Ursa Knappitt
+Reclamação: pellentesque quisque
+Medicamento: Direct Safety Extra Strength Aspirin Free
+
+Data: 6/2/2019
+Médico: Benedetta Triner
+Reclamação: nullam porttitor lacus
+Medicamento: Coffee
+
+Data: 7/16/2019
+Médico: Meryl Romain
+Reclamação: libero convallis eget eleifend
+Medicamento: Pleo Pin
+
+Data: 2/15/2019
+Médico: Hanna MacNeilly
+Reclamação: nisl
+Medicamento: Diclofenac Sodium
+
+Data: 1/9/2019
+Médico: Suzann Ronci
+Reclamação: ligula suspendisse ornare consequat
+Medicamento: Arroyo Willow
+
+Data: 8/22/2019
+Médico: Vachel Itter
+Reclamação: sed lacus morbi sem
+Medicamento: Cephalexin
+
+Data: 11/22/2019
+Médico: Teri Stitle
+Reclamação: montes nascetur ridiculus mus
+Medicamento: Fenoglide
+
+Data: 4/5/2019
+Médico: Elvina Ronaghan
+Reclamação: in lectus
+Medicamento: lisinopril
+
+Data: 12/17/2018
+Médico: Terrel Lowey
+Reclamação: sit amet
+Medicamento: LiverActive
+
+Data: 3/7/2019
+Médico: Kelvin Charette
+Reclamação: mus vivamus vestibulum
+Medicamento: clarithromycin
+
+Data: 4/9/2019
+Médico: Gerianna Butteris
+Reclamação: cras
+Medicamento: Elta MD UV Clear
+
+Data: 3/19/2019
+Médico: Clem Thurber
+Reclamação: ligula pellentesque ultrices
+Medicamento: Herring
+
+Data: 4/17/2019
+Médico: Vivien Thompkins
+Reclamação: sociis natoque penatibus
+Medicamento: MUCOR PLUMBEUS
+
+Data: 12/23/2018
+Médico: Langsdon Goldby
+Reclamação: amet eros suspendisse
+Medicamento: WHITE FLOWER STRAIN RELIEF
+
+Data: 8/13/2019
+Médico: Virginie Dabrowski
+Reclamação: faucibus orci luctus
+Medicamento: Skin Care Prescription
+
+Data: 10/14/2019
+Médico: Ansell Widdowson
+Reclamação: ut volutpat
+Medicamento: Altipres
+
+Data: 4/26/2019
+Médico: Rubina Curedell
+Reclamação: odio
+Medicamento: Gentamicin Sulfate
+
+Data: 12/20/2018
+Médico: Mamie Metson
+Reclamação: quam sollicitudin
+Medicamento: Super Plus Beblesh Balm Triple Functions SPF50 Plus PA 3Plus (40g)
+
+Data: 1/28/2019
+Médico: Borg Paterno
+Reclamação: turpis enim
+Medicamento: Lisinopril
+
+Data: 8/15/2019
+Médico: Raleigh Scala
+Reclamação: platea dictumst maecenas ut
+Medicamento: Betamethasone Dipropionate
+
+Data: 7/21/2019
+Médico: Nicky Barrar
+Reclamação: vivamus
+Medicamento: Fluoxetine Hydrochloride
+
+Data: 7/18/2019
+Médico: Timmie Bedin
+Reclamação: dui
+Medicamento: Personal Care Antibacterial Foaming Hand Wash
+
+Data: 1/16/2019
+Médico: Parnell Polkinhorn
+Reclamação: ac nibh
+Medicamento: Topiramate
+
+Data: 10/13/2019
+Médico: Wolfy Serjeant
+Reclamação: morbi vestibulum velit id
+Medicamento: Fluocinonide
+
+Data: 12/8/2018
+Médico: Lezlie Stebbing
+Reclamação: imperdiet
+Medicamento: Headache Relief PM
+
+Data: 7/1/2019
+Médico: Von Phillipps
+Reclamação: porttitor
+Medicamento: Hydromorphone Hydrochloride
+
+Data: 1/9/2019
+Médico: Collie Rycraft
+Reclamação: bibendum morbi non
+Medicamento: Levothyroxine Sodium
+
+Data: 1/19/2019
+Médico: Debby Kermitt
+Reclamação: sem duis aliquam
+Medicamento: Quetiapine fumarate
+
+Data: 8/31/2019
+Médico: Bradly Witch
+Reclamação: lectus pellentesque at
+Medicamento: Telmisartan and Hydrochlorothiazide
+
+Data: 12/23/2018
+Médico: Rudy Lamberti
+Reclamação: vivamus
+Medicamento: GLYCOPYRROLATE
+
+Data: 10/21/2019
+Médico: Morena Aylesbury
+Reclamação: eget nunc donec
+Medicamento: Standardized Grass Pollen Grass Mix 4
+
+Data: 5/3/2019
+Médico: Mitchell Tearle
+Reclamação: tempus semper
+Medicamento: TRUFFLE EX WRINKLE EMULSION
+
+Data: 6/12/2019
+Médico: Jaymie Kirkup
+Reclamação: nunc
+Medicamento: Amitriptyline Hydrochloride
+
+Data: 6/14/2019
+Médico: Costanza Docksey
+Reclamação: eget vulputate ut
+Medicamento: Cover Fx Blemish Treatment Concealer G Medium
+
+Data: 4/3/2019
+Médico: Allyn Braune
+Reclamação: nec condimentum neque sapien
+Medicamento: Hand Guard Foaming Antimicrobial
+
+Data: 5/14/2019
+Médico: Emelen Krabbe
+Reclamação: aenean sit amet justo
+Medicamento: Alpan 40 (Numero 110)
+
+Data: 3/26/2019
+Médico: Nicola Smeeton
+Reclamação: suscipit
+Medicamento: BIVIGAM
+
+Data: 8/25/2019
+Médico: Catha Gonet
+Reclamação: sagittis nam
+Medicamento: Pramipexole
+
+Data: 9/5/2019
+Médico: Vere Monelli
+Reclamação: velit nec nisi
+Medicamento: ABROTANUM
+
+Data: 3/19/2019
+Médico: Jojo Boulden
+Reclamação: vestibulum ante
+Medicamento: All Day Allergy
+
+Data: 12/27/2018
+Médico: Gayle MacDuffie
+Reclamação: sapien urna
+Medicamento: DIPYRIDAMOLE
+
+Data: 7/12/2019
+Médico: Edith Jinkin
+Reclamação: nec molestie sed
+Medicamento: MISSHA M SWIRL BB SUN BALM
+
+Data: 11/20/2019
+Médico: Shem Elsley
+Reclamação: blandit nam nulla
+Medicamento: Gabapentin
+
+Data: 1/10/2019
+Médico: Daisie Spieck
+Reclamação: justo sollicitudin ut
+Medicamento: Elocon
+
+Data: 2/5/2019
+Médico: Dorothea Hanne
+Reclamação: integer non velit
+Medicamento: Animal Allergens Feather Mix
+
+Data: 5/1/2019
+Médico: Sergeant Rignoldes
+Reclamação: nulla ut
+Medicamento: JUNIPERUS CALIFORNICA POLLEN
+
+Data: 5/10/2019
+Médico: Cornelia Hanshaw
+Reclamação: luctus nec molestie sed
+Medicamento: Vitafol OB
+
+Data: 10/22/2019
+Médico: Gerik McJury
+Reclamação: in hac habitasse
+Medicamento: CITALOPRAM HYDROBROMIDE
+
+Data: 12/31/2018
+Médico: Raye Espine
+Reclamação: sed vestibulum sit
+Medicamento: Childrens Earache Relief
+
+Data: 12/7/2018
+Médico: Duncan Criple
+Reclamação: morbi non lectus aliquam
+Medicamento: Felodipine
+
+Data: 12/15/2018
+Médico: Karyn Tezure
+Reclamação: consequat dui nec nisi
+Medicamento: Bio Gorse
+
+Data: 9/13/2019
+Médico: Aleksandr Paulmann
+Reclamação: a nibh in quis
+Medicamento: Relovox
+
+Data: 3/8/2019
+Médico: Marcela Bilson
+Reclamação: morbi odio odio
+Medicamento: LOreal Paris Avançado Suncare Silky Sheer 30 Broad Spectrum SPF 30 Sunscreen
+
+Data: 7/24/2019
+Médico: Maximilien Merryfield
+Reclamação: dapibus nulla suscipit
+Medicamento: ibuprofen ib
+
+Data: 12/22/2018
+Médico: Lissie Faustin
+Reclamação: consequat varius
+Medicamento: Quetiapine fumarate
+
+Data: 5/20/2019
+Médico: Pernell Tokley
+Reclamação: gravida sem
+Medicamento: Petroleum Skin Protectant
+
+Data: 11/27/2018
+Médico: Cristionna Talby
+Reclamação: quis augue luctus tincidunt
+Medicamento: Treatment Set TS349631
+
+Data: 3/22/2019
+Médico: Mose Prestner
+Reclamação: lacus morbi sem mauris
+Medicamento: Doctor Hoys Natural Pain Relief
+
+Data: 9/25/2019
+Médico: Cathrin Lammas
+Reclamação: magna
+Medicamento: Hydrocodone Bitartrate and Acetaminophen
+
+Data: 5/2/2019
+Médico: Tomlin Covolini
+Reclamação: neque vestibulum eget
+Medicamento: Cefuroxime Axetil
+
+Data: 1/24/2019
+Médico: Son Balden
+Reclamação: dolor quis
+Medicamento: Winter Vanilla Hand Sanitizer
+
+Data: 2/24/2019
+Médico: Sukey Goodman
+Reclamação: justo lacinia eget
+Medicamento: Calcium Disodium Versenate
+
+Data: 1/30/2019
+Médico: Deerdre Blackwood
+Reclamação: tortor quis turpis
+Medicamento: Premier Value Bisacodyl Laxative
+
+Data: 2/11/2019
+Médico: Angelo Byrne
+Reclamação: gravida sem praesent id
+Medicamento: SohMed Extra Strength
+
+Data: 10/26/2019
+Médico: Berte Verry
+Reclamação: ut odio
+Medicamento: Childrens QPAP
+
+Data: 11/5/2019
+Médico: Nomi Palley
+Reclamação: quis justo
+Medicamento: GARAMYCIN
+
+Data: 11/27/2018
+Médico: Caty McEntagart
+Reclamação: vestibulum
+Medicamento: Arnica Montana
+
+Data: 9/15/2019
+Médico: Falkner Whitewood
+Reclamação: justo aliquam
+Medicamento: Valacyclovir Hydrochloride
+
+Data: 9/29/2019
+Médico: Zola Colby
+Reclamação: rutrum at
+Medicamento: PAROEX
+
+Data: 2/28/2019
+Médico: Austina Odhams
+Reclamação: fermentum
+Medicamento: Stretch Mark Control
+
+Data: 3/26/2019
+Médico: Kate Bromley
+Reclamação: pede libero
+Medicamento: OHM Endocrine Feminine Terrain
+
+Data: 6/22/2019
+Médico: Benito Durban
+Reclamação: in felis donec semper
+Medicamento: VP-CH-PNV
+
+Data: 9/12/2019
+Médico: Tracee Lesley
+Reclamação: lorem id ligula
+Medicamento: SPINY PIGWEED POLLEN
+
+Data: 9/3/2019
+Médico: Guillema Vittore
+Reclamação: vitae consectetuer eget rutrum
+Medicamento: dg health arthritis pain relief
+
+Data: 5/17/2019
+Médico: Fawne Giacomucci
+Reclamação: vitae
+Medicamento: Endocrine Balancer
+
+Data: 3/6/2019
+Médico: Lorita Pittendreigh
+Reclamação: consequat ut
+Medicamento: Losartan Potassium
+
+Data: 11/17/2019
+Médico: Cornie Kinnach
+Reclamação: suspendisse potenti nullam porttitor
+Medicamento: Labetalol Hydrochloride
+
+Data: 5/19/2019
+Médico: Gnni Riggeard
+Reclamação: neque duis
+Medicamento: ZEMPLAR
+
+Data: 11/28/2018
+Médico: Eldin McRill
+Reclamação: massa
+Medicamento: MEGA-C-ACID
+
+Data: 5/22/2019
+Médico: Natasha Truckell
+Reclamação: nec sem duis aliquam
+Medicamento: LBEL RENOVANCE JOUR Daytime Face SPF 15 All Skin Types
+
+Data: 2/22/2019
+Médico: Annadiane Hall-Gough
+Reclamação: vestibulum eget vulputate ut
+Medicamento: Citrus Basil Antibacterial Creamy Hand Wash
+
+Data: 6/22/2019
+Médico: Emera Dell Casa
+Reclamação: ut tellus nulla ut
+Medicamento: Foaming Instant Hand Sanitizer with Aloe and Vitamin E
+
+Data: 8/15/2019
+Médico: Storm Bilovus
+Reclamação: libero rutrum ac lobortis
+Medicamento: Natural Fiber Powder
+
+Data: 3/10/2019
+Médico: Maddy Chiene
+Reclamação: mattis
+Medicamento: Ibuprofen
+
+Data: 2/25/2019
+Médico: Harriott Paffitt
+Reclamação: sit amet eleifend
+Medicamento: Protonix
+
+Data: 11/9/2019
+Médico: Thea Keymer
+Reclamação: sapien
+Medicamento: SENNA TIME
+
+Data: 3/26/2019
+Médico: Panchito Gulliver
+Reclamação: morbi ut odio
+Medicamento: Metoprolol Succinate
+
+Data: 3/28/2019
+Médico: Siana Ruane
+Reclamação: vitae ipsum
+Medicamento: Vanquish
+
+Data: 2/3/2019
+Médico: Margy Greenrde
+Reclamação: platea dictumst aliquam
+Medicamento: albuterol sulfate
+
+Data: 6/13/2019
+Médico: Selie Tapsell
+Reclamação: interdum mauris
+Medicamento: Neomycin and Polymyxin B Sulfates and Hydrocortisone
+
+Data: 4/17/2019
+Médico: Jase Pattlel
+Reclamação: in tempor turpis nec
+Medicamento: SUPER ORIGIN CC
+
+Data: 6/5/2019
+Médico: Tessa Couves
+Reclamação: vivamus tortor duis mattis
+Medicamento: TIANHE ZHUIFENG GAO
+
+Data: 5/15/2019
+Médico: Nelle Pioli
+Reclamação: molestie
+Medicamento: NIACIN
+
+Data: 10/22/2019
+Médico: Timi Bedrosian
+Reclamação: sed tristique
+Medicamento: lisinopril
+
+Data: 12/18/2018
+Médico: Ian Stanier
+Reclamação: vestibulum ante ipsum primis
+Medicamento: OLEA EUROPAEA POLLEN
+
+Data: 11/8/2019
+Médico: Reube Seville
+Reclamação: nibh
+Medicamento: kirkland signature omeprazole
+
+Data: 11/13/2019
+Médico: Emerson Barenskie
+Reclamação: ut rhoncus
+Medicamento: Temazepam
+
+Data: 8/27/2019
+Médico: Tedd O' Mulderrig
+Reclamação: et tempus semper est
+Medicamento: ZYPREXA
+
+Data: 9/1/2019
+Médico: Agathe Bucknill
+Reclamação: praesent
+Medicamento: Fosinopril Sodium and Hydrochlorothiazide
+
+Data: 11/23/2019
+Médico: Charlotte Clausson
+Reclamação: velit donec
+Medicamento: Galantamine hydrobromide
+
+Data: 7/30/2019
+Médico: Jenifer Heritege
+Reclamação: ante vestibulum
+Medicamento: PROCHLORPERAZINE MasculinoATE
+
+Data: 1/28/2019
+Médico: Sutherland Vaggers
+Reclamação: sem duis aliquam
+Medicamento: Octreotide
+
+Data: 8/6/2019
+Médico: Peadar Dewsnap
+Reclamação: cum
+Medicamento: Cinnamon Clove Antibacterial Foaming Hand Wash
+
+Data: 1/27/2019
+Médico: Hagan Sharpley
+Reclamação: diam in magna
+Medicamento: Crestor
+
+Data: 6/23/2019
+Médico: Katerina Mordy
+Reclamação: mattis pulvinar
+Medicamento: Sure Conditioning Solid Vitamin Infusion
+
+Data: 10/25/2019
+Médico: Devy Kimmings
+Reclamação: nisl
+Medicamento: meijer
+
+Data: 2/19/2019
+Médico: Dimitry Sherer
+Reclamação: luctus ultricies
+Medicamento: Bacti-Stat AE
+
+Data: 7/2/2019
+Médico: Demott Gateman
+Reclamação: orci nullam molestie
+Medicamento: The Cover Classic Pro Foundation
+
+Data: 6/4/2019
+Médico: Inigo Brundell
+Reclamação: molestie lorem quisque ut
+Medicamento: ZzzQuil
+
+Data: 1/25/2019
+Médico: Joella Braithwait
+Reclamação: nisl
+Medicamento: babies r us gas relief
+
+Data: 5/2/2019
+Médico: Rhys MacCallum
+Reclamação: dui vel nisl
+Medicamento: Pro Therapy MD
+
+Data: 1/21/2019
+Médico: Clary Lere
+Reclamação: dictumst morbi
+Medicamento: AMERICAN COCKROACH
+
+Data: 12/6/2018
+Médico: Archibaldo Pettingill
+Reclamação: venenatis non sodales sed
+Medicamento: ESIKA
+
+Data: 4/22/2019
+Médico: Bryna Seals
+Reclamação: ultrices libero non mattis
+Medicamento: Therapeutic T Plus
+
+Data: 9/20/2019
+Médico: Gerhardt Arrigucci
+Reclamação: ornare imperdiet sapien urna
+Medicamento: femhrt
+
+Data: 6/3/2019
+Médico: Devondra Landa
+Reclamação: cubilia curae mauris
+Medicamento: Zithromax
+
+Data: 11/8/2019
+Médico: Coletta Wetherill
+Reclamação: dui
+Medicamento: Cinnamon Sticks Antibacterial Foaming Hand Wash
+
+Data: 3/1/2019
+Médico: Olvan Malsher
+Reclamação: mauris eget massa tempor
+Medicamento: Terazosin Hydrochloride Anhydrous
+
+Data: 7/14/2019
+Médico: Jacki Aylesbury
+Reclamação: dapibus dolor
+Medicamento: Buxom Show Some Skin Weightless Foundation Broad Spectrum SPF 30
+
+Data: 7/3/2019
+Médico: Nickolaus Guye
+Reclamação: pede justo lacinia eget
+Medicamento: Inflamma-Tone
+
+Data: 3/13/2019
+Médico: Marketa Steynor
+Reclamação: ante nulla justo
+Medicamento: Pioglitazone
+
+Data: 7/2/2019
+Médico: Halli Armiger
+Reclamação: eu magna vulputate
+Medicamento: Losartan Potassium and Hydrochlorothiazide
+
+Data: 3/24/2019
+Médico: Isidor Worsnop
+Reclamação: quam
+Medicamento: Doxycycline Hyclate
+
+Data: 6/29/2019
+Médico: Britt Thorlby
+Reclamação: convallis eget
+Medicamento: NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL
+
+Data: 3/9/2019
+Médico: Albina Burdon
+Reclamação: nullam
+Medicamento: Methylphenidate Hydrochloride
+
+Data: 12/26/2018
+Médico: Harlie Buckston
+Reclamação: laoreet
+Medicamento: Candicide 12X
+
+Data: 4/21/2019
+Médico: Giles Tomasello
+Reclamação: odio consequat varius
+Medicamento: SENSODYNE
+
+Data: 11/6/2019
+Médico: Godfree Megany
+Reclamação: vivamus vel nulla eget
+Medicamento: Risperidone
+
+Data: 9/28/2019
+Médico: Ronica Service
+Reclamação: accumsan felis
+Medicamento: Pertussis
+
+Data: 6/20/2019
+Médico: Teodora Christian
+Reclamação: in tempus sit amet
+Medicamento: Body Pure
+
+Data: 3/27/2019
+Médico: Prentiss Radbourne
+Reclamação: dapibus at diam
+Medicamento: Smart Sense Childrens Allergy
+
+Data: 11/3/2019
+Médico: Mathias Robbeke
+Reclamação: erat vestibulum sed magna
+Medicamento: quetiapine fumarate
+
+Data: 1/8/2019
+Médico: Susannah Kingcott
+Reclamação: pulvinar lobortis est phasellus
+Medicamento: Ceftriaxone Sodium
+
+Data: 12/5/2018
+Médico: Levey Seth
+Reclamação: integer non
+Medicamento: CARE ONE
+
+Data: 5/21/2019
+Médico: Sloan Rentcome
+Reclamação: interdum
+Medicamento: Heparin Sodium
+
+Data: 11/2/2019
+Médico: Arline Angus
+Reclamação: etiam vel augue
+Medicamento: Ciprofloxacin
+
+Data: 12/4/2018
+Médico: Farica Dugood
+Reclamação: suscipit nulla elit
+Medicamento: Doxepin Hydrochloride
+
+Data: 7/5/2019
+Médico: Rhody Battany
+Reclamação: metus vitae ipsum
+Medicamento: Healing After Surgery
+
+Data: 10/26/2019
+Médico: Itch Aluard
+Reclamação: id
+Medicamento: Isosorbide Dinitrate
+
+Data: 8/31/2019
+Médico: Welch Rubenovic
+Reclamação: lectus pellentesque eget
+Medicamento: Amoxicillin
+
+Data: 10/28/2019
+Médico: Andris Tompsett
+Reclamação: aliquam sit
+Medicamento: Amnesteem
+
+Data: 2/19/2019
+Médico: Jackie Rodie
+Reclamação: nulla integer
+Medicamento: Fexofenadine Hydrochloride
+
+Data: 5/25/2019
+Médico: Sandy McMurthy
+Reclamação: pellentesque quisque porta
+Medicamento: Rohto Arctic
+
+Data: 7/31/2019
+Médico: Sergeant Prier
+Reclamação: lectus
+Medicamento: up and up cold and hot medicated
+
+Data: 4/11/2019
+Médico: Grove Goldup
+Reclamação: id
+Medicamento: Lidocaine Hydrochloride
+
+Data: 8/11/2019
+Médico: Adham Yantsurev
+Reclamação: magna
+Medicamento: Best Choice Oil-Free Acne Wash Foaming Scrub
+
+Data: 8/4/2019
+Médico: Timi Hedau
+Reclamação: in consequat
+Medicamento: Venlafaxine Hydrochloride
+
+Data: 7/8/2019
+Médico: Shawna Codrington
+Reclamação: nec dui luctus
+Medicamento: Desenex
+
+Data: 10/4/2019
+Médico: Genia Gosnoll
+Reclamação: in faucibus
+Medicamento: Dove
+
+Data: 7/19/2019
+Médico: Guillemette Lamberto
+Reclamação: potenti cras in
+Medicamento: Nasal Decongestant PE
+
+Data: 2/7/2019
+Médico: Adi Winridge
+Reclamação: morbi odio
+Medicamento: Levothyroxine Sodium
+
+Data: 2/16/2019
+Médico: Marsiella Russon
+Reclamação: pellentesque
+Medicamento: Povidone-Iodine
+
+Data: 6/2/2019
+Médico: Phelia Coate
+Reclamação: ornare consequat lectus in
+Medicamento: Vitale Sensitive Scalp Daily Scalp Healer
+
+Data: 11/10/2019
+Médico: Kimberlee Bordman
+Reclamação: rutrum at lorem integer
+Medicamento: Dove
+
+Data: 7/4/2019
+Médico: Burnaby Calyton
+Reclamação: in sagittis
+Medicamento: DOPamine Hydrochloride
+
+Data: 11/23/2019
+Médico: Dacey Sewill
+Reclamação: phasellus id
+Medicamento: Di-Dak-Sol
+
+Data: 11/7/2019
+Médico: Timothee Lisle
+Reclamação: primis
+Medicamento: BENZTROPINE MESYLATE
+
+Data: 2/10/2019
+Médico: Ardis Dolbey
+Reclamação: congue risus
+Medicamento: Extra Strength Pain Relief
+
+Data: 5/24/2019
+Médico: Herschel Veschambre
+Reclamação: etiam
+Medicamento: dg health cold and flu relief
+
+Data: 7/7/2019
+Médico: Florence Newborn
+Reclamação: morbi vestibulum velit
+Medicamento: Humco Mineral Oil Heavy
+
+Data: 8/17/2019
+Médico: Joela Jeffes
+Reclamação: rhoncus sed vestibulum sit
+Medicamento: Burn Relief
+
+Data: 6/23/2019
+Médico: Giana Manthroppe
+Reclamação: fermentum
+Medicamento: HealthMart Chest Congestion Relief DMDM
+
+Data: 10/16/2019
+Médico: Hilde Kmietsch
+Reclamação: luctus nec molestie
+Medicamento: BUPROPION HYDROCHLORIDE
+
+Data: 6/28/2019
+Médico: Fabiano Kenington
+Reclamação: convallis
+Medicamento: Losartan potassium and hydrochlorothiazide
+
+Data: 2/18/2019
+Médico: Clyde Ziems
+Reclamação: nulla ut
+Medicamento: IBUPROFEN
+
+Data: 1/16/2019
+Médico: Orel Oliveti
+Reclamação: sit amet lobortis
+Medicamento: Butorphanol Tartrate
+
+Data: 2/6/2019
+Médico: Tremaine Herity
+Reclamação: ut suscipit a
+Medicamento: LEADER ALL DAY ALLERGY
+
+Data: 5/30/2019
+Médico: Benedicta Belin
+Reclamação: odio curabitur convallis duis
+Medicamento: equaline hemorrhoidal
+
+Data: 8/19/2019
+Médico: Stephie Belhome
+Reclamação: velit
+Medicamento: Zohydro
+
+Data: 2/26/2019
+Médico: Windy Clayal
+Reclamação: euismod scelerisque
+Medicamento: Rydex
+
+Data: 5/19/2019
+Médico: Yoshiko Moore
+Reclamação: tempor
+Medicamento: Up and Up Nicotine
+
+Data: 6/19/2019
+Médico: Linnet Crookall
+Reclamação: in faucibus
+Medicamento: Childrens Pain and Fever
+
+Data: 9/9/2019
+Médico: Letty Demchen
+Reclamação: vel
+Medicamento: Hydrocodone Bitartrate And Acetaminophen
+
+Data: 6/10/2019
+Médico: Phip Glowacha
+Reclamação: est congue elementum in
+Medicamento: Chlorpheniramine
+
+Data: 2/3/2019
+Médico: Glennie Pering
+Reclamação: donec ut mauris
+Medicamento: Clindamycin
+
+Data: 6/26/2019
+Médico: Maridel Ert
+Reclamação: imperdiet sapien urna
+Medicamento: DRAXIMAGE MAA
+
+Data: 7/20/2019
+Médico: Boris Wisniewski
+Reclamação: magna at nunc commodo
+Medicamento: Griseofulvin
+
+Data: 11/24/2018
+Médico: Jena Di Giacomo
+Reclamação: nisl ut
+Medicamento: Lamivudine and Zidovudine
+
+Data: 9/10/2019
+Médico: Jim Blandford
+Reclamação: in eleifend quam a
+Medicamento: Night Time Cherry
+
+Data: 6/25/2019
+Médico: Elroy Koppe
+Reclamação: aliquam lacus morbi quis
+Medicamento: Azathioprine

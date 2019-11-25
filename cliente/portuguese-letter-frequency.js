@@ -1,5 +1,5 @@
 const portuguese_letter_frequency = {
-    a: 14,
+    a: 20,
     b: 1.04,
     c: 3.88,
     d: 4.99,
@@ -34,7 +34,7 @@ const portuguese_letter_frequency = {
     7: 10,
     8: 10,
     9: 10,
-    0: 10,
+    0: 12,
     ' ': 11,
     '-': 1,
     '/': 5,
