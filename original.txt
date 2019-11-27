@@ -1,898 +1,898 @@
-nome: josé matias do santos silva e silva
+nome: jose matias do santos silva e silva
 idade: 60
-endereço: rua dos tapanajás, 889 - são caetano do sul, brasil
+endereco: rua dos tapanajás, 889 - sao caetano do sul, brasil
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao dia
 
 consulta: dia 10-10-2019
-médico: joão vilas boas santos
-reclamação: dores nas costas
+medico: joao vilas boas santos
+reclamacao: dores nas costas
 parecer: osteoporose
 medicamento: omeprazol 15g 4 vezes ao diad

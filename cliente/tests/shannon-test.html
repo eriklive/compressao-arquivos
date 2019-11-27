@@ -1,0 +1,74 @@
+<html>
+<header>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="./style.css">
+</header>
+
+<body>
+    <div class="card">
+        <h2>Shannon-fano</h2>
+        <h3>Selecione um prontuário (.txt) e clique em enviar</h3>
+
+        <form name="select_cliente_file">
+            <input type="file" id="input_file">
+            <br>
+            <button id="send_file" type="button">Enviar</button>
+        </form>
+    </div>
+
+    <div class="card table-card">
+        <table id="table">
+            <thead>
+                <tr>
+                    <td>Tamanho Original (kB)</td>
+                    <td>Tamanho Comprimido (kB)</td>
+                    <td>Diferenca (kB)</td>
+                    <td>Diferenca (%)</td>
+                </tr>
+            </thead>
+
+            <tbody id="tbody">
+
+            </tbody>
+        </table>
+    </div>
+
+</body>
+
+<!-- <script src="huffman.js"></script> -->
+<script src="shannon-fano.js"></script>
+<script src="converter.js"></script>
+<script>
+    const fileReader = new FileReader();
+
+    document.getElementById("send_file").addEventListener("click", function () {
+        const file = document.forms['select_cliente_file']['input_file'].files[0];
+        const htmlTableBody = document.getElementById("tbody");
+        var textType = /text.*/;
+
+        if (file.type.match(textType)) {
+            fileReader.onload = (event) => {
+                const originalAsString = fileReader.result.toLowerCase();
+
+                const freq = shannonFanoFrequency(originalAsString);
+                const tree = buildtree(freq);
+
+                assigncodes(tree);
+
+                originalEncoded = encode(originalAsString);
+
+                decoded = decode(tree, originalEncoded);
+
+                for (let i = 0; i < originalEncoded.length % 8; i++)
+                    originalEncoded += '0';
+
+                encodedAsString = binaryToString(originalEncoded);
+            }
+
+            fileReader.readAsText(file);
+        } 
+
+    });
+</script>
+
+</html>

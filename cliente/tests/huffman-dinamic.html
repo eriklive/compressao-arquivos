@@ -23,8 +23,8 @@
                     <td>Tamanho Comprimido (kB)</td>
                     <td>Original 01</td>
                     <td>Encoded 01</td>
-                    <td>Diferença (kB)</td>
-                    <td>Diferença (%)</td>
+                    <td>Diferenca (kB)</td>
+                    <td>Diferenca (%)</td>
                 </tr>
             </thead>
 
@@ -40,9 +40,9 @@
 <script src="converter.js"></script>
 <script src="portuguese-letter-frequency.js"></script>
 <script>
-    //Criando a tabela de conversão binário para texto
+    //Criando a tabela de conversao binário para texto
     document.getElementById("send_file").addEventListener("click", function () {
-        //Criando a árvore com o vocabulário padrão
+        //Criando a árvore com o vocabulário padrao
         const fileReader = new FileReader();
 
         const file = document.forms['select_cliente_file']['input_file'].files[0];
@@ -54,19 +54,20 @@
                 const originalAsString = fileReader.result.toLowerCase();
                 // const originalAsString ='On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.'
                 w = frequency(originalAsString);
-                console.log(w)
-                const tree = trimtree(buildtree(sortfreq(w)));
 
-                console.log(codes);
+                console.log(sortfreq(w));
+                const tree = trimtree(buildtree(sortfreq(w)));
+                console.log(tree);
                 const httpHeader = new Headers();
                 assigncodes(tree);
 
                 originalAsBinary = encode(originalAsString);
 
-                //Esse passo é necessário para a sequencia binária ser de '8 em 8'
+                //Esse passo e necessário para a sequencia binária ser de '8 em 8'
                 for (let i = 0; i < originalAsBinary.length % 8; i++)
                     originalAsBinary += '0';
 
+                
                 encodedAsString = binaryToString(originalAsBinary);
                 encodedAsBinary = stringToBinary(encodedAsString);
 
@@ -79,9 +80,10 @@
                 const collumFour = document.createElement("td");
                 const collumFive = document.createElement("td");
                 const collumSix = document.createElement("td");
+                const testString = JSON.stringify(tree);
 
                 const txtOne = document.createTextNode(originalAsString.length /1000);
-                const txtTwo = document.createTextNode(encodedAsString.length/1000);
+                const txtTwo = document.createTextNode((encodedAsString.length + testString.length + 10) /1000);
                 const txtThree = document.createTextNode(originalAsString.length * 8);
                 const txtFour = document.createTextNode(encodedAsBinary.length);
                 const txtFive = document.createTextNode(originalAsBinary.length);

@@ -21,8 +21,8 @@
                 <tr>
                     <td>Tamanho Original (kB)</td>
                     <td>Tamanho Comprimido (kB)</td>
-                    <td>Diferença (kB)</td>
-                    <td>Diferença (%)</td>
+                    <td>Diferenca (kB)</td>
+                    <td>Diferenca (%)</td>
                 </tr>
             </thead>
 
@@ -38,12 +38,12 @@
 <script src="converter.js"></script>
 <script src="portuguese-letter-frequency.js"></script>
 <script>
-    //Criando a árvore com o vocabulário padrão
+    //Criando a árvore com o vocabulário padrao
     const tree = trimtree(buildtree(sortfreq(portuguese_letter_frequency)));
     const httpHeader = new Headers();
     const fileReader = new FileReader();
 
-    //Criando a tabela de conversão binário para texto
+    //Criando a tabela de conversao binário para texto
     assigncodes(tree);
 
     document.getElementById("send_file").addEventListener("click", function () {
@@ -56,7 +56,7 @@
                 const originalAsString = fileReader.result.toLowerCase();
                 originalAsBinary = encode(originalAsString);
 
-                //Esse passo é necessário para a sequencia binária ser de '8 em 8'
+                //Esse passo e necessário para a sequencia binária ser de '8 em 8'
                 for (let i = 0; i < originalAsBinary.length % 8; i++)
                     originalAsBinary += '0';
 
