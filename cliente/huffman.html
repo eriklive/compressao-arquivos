@@ -60,7 +60,6 @@
                 originalEncoded += '0';
 
             encodedAsString = binaryToString(originalEncoded);
-            encodedAsBinary = stringToBinary(encodedAsString);
 
             sendToServer('huffman', encodedAsString, tree);
             updateHtmlWithData(originalAsString, encodedAsString)

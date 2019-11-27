@@ -35,38 +35,40 @@
 
 </body>
 
-<!-- <script src="huffman.js"></script> -->
-<script src="shannon-fano.js"></script>
+<script src="doHttpRequest.js"></script>
+<script src="updateHtmlWithData.js"></script>
 <script src="converter.js"></script>
+<script src="shannon-fano.js"></script>
 <script>
     const fileReader = new FileReader();
 
     document.getElementById("send_file").addEventListener("click", function () {
         const file = document.forms['select_cliente_file']['input_file'].files[0];
         const htmlTableBody = document.getElementById("tbody");
-        var textType = /text.*/;
 
-        if (file.type.match(textType)) {
-            fileReader.onload = (event) => {
-                const originalAsString = fileReader.result.toLowerCase();
+        fileReader.onload = (event) => {
+            const originalAsString = fileReader.result.toLowerCase();
 
-                const freq = shannonFanoFrequency(originalAsString);
-                const tree = buildtree(freq);
+            const freq = shannonFanoFrequency(originalAsString);
+            const tree = buildtree(freq);
 
-                assigncodes(tree);
+            assigncodes(tree);
 
-                originalEncoded = encode(originalAsString);
+            originalEncoded = encode(originalAsString);
 
-                decoded = decode(tree, originalEncoded);
+            decoded = decode(tree, originalEncoded);
 
-                for (let i = 0; i < originalEncoded.length % 8; i++)
-                    originalEncoded += '0';
+            for (let i = 0; i < originalEncoded.length % 8; i++)
+                originalEncoded += '0';
 
-                encodedAsString = binaryToString(originalEncoded);
-            }
+            encodedAsString = binaryToString(originalEncoded);
 
-            fileReader.readAsText(file);
-        } 
+            sendToServer('shannon', encodedAsString, tree);
+            updateHtmlWithData(originalAsString, encodedAsString)
+        }
+
+        fileReader.readAsText(file);
+
 
     });
 </script>

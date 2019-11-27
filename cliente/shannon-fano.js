@@ -41,7 +41,7 @@ const buildtree = (tuples) => {
     return tuples;
 }
 
-function ordernar(left, right) {
+const ordernar = (left, right) => {
     let sumRight = 0;
     let sumLeft = 0;
     let tree;
