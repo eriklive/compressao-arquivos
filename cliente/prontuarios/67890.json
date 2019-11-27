@@ -1,0 +1,1751 @@
+{
+    "cod": 67890,
+    "Nome": "Hermione",
+    "Sobrenome": "Richardes",
+    "Data Nascimento": "07/09/1976",
+    "Email": "hrichardes5@reference.com",
+    "Genero": "Feminino",
+    "CPF": "713-64-3231",
+    "consultas": [
+        {
+            "Data": "5/26/2019",
+            "Medico": "Trula Kynforth",
+            "Reclamacao": "fusce posuere felis sed",
+            "Medicamento": "Bupivacaine Hydrochloride"
+        },
+        {
+            "Data": "7/29/2019",
+            "Medico": "Cassie Loades",
+            "Reclamacao": "eu",
+            "Medicamento": "Zermat Kiwi with Fragrance"
+        },
+        {
+            "Data": "9/4/2019",
+            "Medico": "Paulie Sobtka",
+            "Reclamacao": "odio curabitur convallis duis",
+            "Medicamento": "Up and Up childrens ibuprofen"
+        },
+        {
+            "Data": "3/30/2019",
+            "Medico": "Benton Locks",
+            "Reclamacao": "dolor vel",
+            "Medicamento": "Food - Dairy Products Milk Whole Cow"
+        },
+        {
+            "Data": "9/13/2019",
+            "Medico": "Corrine Mogg",
+            "Reclamacao": "ac est",
+            "Medicamento": "Ampicillin and Sulbactam"
+        },
+        {
+            "Data": "9/23/2019",
+            "Medico": "Tiff Bisley",
+            "Reclamacao": "dis partu,rient",
+            "Medicamento": "Synalar"
+        },
+        {
+            "Data": "10/7/2019",
+            "Medico": "Seth Broadbent",
+            "Reclamacao": "posuere cubilia",
+            "Medicamento": "Candida albicans"
+        },
+        {
+            "Data": "6/30/2019",
+            "Medico": "Jackie Rosenfelder",
+            "Reclamacao": "augue vestib,ulum ante",
+            "Medicamento": "Cutiecaine"
+        },
+        {
+            "Data": "6/30/2019",
+            "Medico": "Naoma Asel",
+            "Reclamacao": "dui",
+            "Medicamento": "Molds Rusts and Smuts Stemphylium botryosum"
+        },
+        {
+            "Data": "1/30/2019",
+            "Medico": "Ennis Rimell",
+            "Reclamacao": "nam tristiqu,e tortor eu",
+            "Medicamento": "HZ Formula"
+        },
+        {
+            "Data": "11/17/2019",
+            "Medico": "Marvin Ebbles",
+            "Reclamacao": "porttitor ,lorem id",
+            "Medicamento": "day time"
+        },
+        {
+            "Data": "6/12/2019",
+            "Medico": "Haley Maddison",
+            "Reclamacao": "posuere ,cubilia curae donec",
+            "Medicamento": "Reglan"
+        },
+        {
+            "Data": "9/19/2019",
+            "Medico": "Irvin Castree",
+            "Reclamacao": "tincidunt",
+            "Medicamento": "Myorisan"
+        },
+        {
+            "Data": "8/7/2019",
+            "Medico": "Jorry Gradon",
+            "Reclamacao": "rhoncus sed ,vestibulum sit",
+            "Medicamento": "Loratadine"
+        },
+        {
+            "Data": "7/19/2019",
+            "Medico": "Herbert Overel",
+            "Reclamacao": "condimentum cura,bitur in libero",
+            "Medicamento": "Hand Sanitizer"
+        },
+        {
+            "Data": "11/19/2019",
+            "Medico": "Verna Dilley",
+            "Reclamacao": "proin risus",
+            "Medicamento": "nifedipine"
+        },
+        {
+            "Data": "2/20/2019",
+            "Medico": "Talyah Reisin",
+            "Reclamacao": "blandit",
+            "Medicamento": "FACE IT Radiance Two Way Cake NB21"
+        },
+        {
+            "Data": "2/5/2019",
+            "Medico": "Sullivan Hambatch",
+            "Reclamacao": "proin at t,urpis",
+            "Medicamento": "Aminosyn"
+        },
+        {
+            "Data": "10/6/2019",
+            "Medico": "Carita Trewin",
+            "Reclamacao": "vel est donec",
+            "Medicamento": "RESILIENCE LIFT FIRMING SCULPTING FACE AND NECK BROAD SPECTRUM SPF 15"
+        },
+        {
+            "Data": "10/24/2019",
+            "Medico": "Davon Talman",
+            "Reclamacao": "nec condimentu,m neque",
+            "Medicamento": "Men Dynamics"
+        },
+        {
+            "Data": "4/8/2019",
+            "Medico": "Jayme Corss",
+            "Reclamacao": "potenti nullam",
+            "Medicamento": "Sof Skin Vaporizing Chest Rub and Cough Suppressant"
+        },
+        {
+            "Data": "8/16/2019",
+            "Medico": "Emyle Standidge",
+            "Reclamacao": "maecenas tincidunt",
+            "Medicamento": "Methylphenidate Hydrochloride"
+        },
+        {
+            "Data": "8/10/2019",
+            "Medico": "Esra Chartre",
+            "Reclamacao": "neque",
+            "Medicamento": "Constipation"
+        },
+        {
+            "Data": "12/8/2018",
+            "Medico": "Ollie Tithecote",
+            "Reclamacao": "vel accumsan",
+            "Medicamento": "Defensol Adult Syrup"
+        },
+        {
+            "Data": "12/4/2018",
+            "Medico": "Patton Matissoff",
+            "Reclamacao": "morbi ve,l",
+            "Medicamento": "Rasuvo"
+        },
+        {
+            "Data": "7/23/2019",
+            "Medico": "Kippy Abramovic",
+            "Reclamacao": "eget tempus vel pede,",
+            "Medicamento": "Thuja Thymus comp."
+        },
+        {
+            "Data": "8/14/2019",
+            "Medico": "Rochelle Ambler",
+            "Reclamacao": "congue",
+            "Medicamento": "Amitriptyline Hydrochloride"
+        },
+        {
+            "Data": "3/20/2019",
+            "Medico": "Halsey Robins",
+            "Reclamacao": "turpis integer ,aliquet",
+            "Medicamento": "Zodryl DEC 60"
+        },
+        {
+            "Data": "11/13/2019",
+            "Medico": "Ronald Rohloff",
+            "Reclamacao": "ultrices p,osuere",
+            "Medicamento": "Atenolol"
+        },
+        {
+            "Data": "12/11/2018",
+            "Medico": "Vilhelmina Sheringham",
+            "Reclamacao": "sed sagittis nam congue",
+            "Medicamento": "Santalia Clinical Daily Cleanser"
+        },
+        {
+            "Data": "8/28/2019",
+            "Medico": "Markos Campaigne",
+            "Reclamacao": "semper",
+            "Medicamento": "Duck Meat"
+        },
+        {
+            "Data": "1/8/2019",
+            "Medico": "Demetris Casone",
+            "Reclamacao": "lacinia eg,et",
+            "Medicamento": "RAGWITEK"
+        },
+        {
+            "Data": "6/22/2019",
+            "Medico": "Terrill Schutze",
+            "Reclamacao": "non sodales",
+            "Medicamento": "Hydrochlorothiazide"
+        },
+        {
+            "Data": "5/22/2019",
+            "Medico": "Saundra Paulillo",
+            "Reclamacao": "nisl nunc, rhoncus dui",
+            "Medicamento": "Niaspan"
+        },
+        {
+            "Data": "8/21/2019",
+            "Medico": "Graeme Lowthian",
+            "Reclamacao": "volutpat ,quam pede",
+            "Medicamento": "Gralise"
+        },
+        {
+            "Data": "11/3/2019",
+            "Medico": "Rhonda MacGown",
+            "Reclamacao": "eu",
+            "Medicamento": "Pollens - Weeds and Garden Plants Cocklebur Xanthium strumarium"
+        },
+        {
+            "Data": "11/7/2019",
+            "Medico": "Raddie Lindenberg",
+            "Reclamacao": "facilisi cras, non",
+            "Medicamento": "Lamotrigine"
+        },
+        {
+            "Data": "10/27/2019",
+            "Medico": "Eddi Hembery",
+            "Reclamacao": "augue",
+            "Medicamento": "Business Elite Amenity"
+        },
+        {
+            "Data": "9/29/2019",
+            "Medico": "Win Arr",
+            "Reclamacao": "volutpat eleifend donec",
+            "Medicamento": "METFORMIN HYDROCHLORIDE"
+        },
+        {
+            "Data": "11/25/2018",
+            "Medico": "Aidan Bendtsen",
+            "Reclamacao": "massa id nisl v,enenatis",
+            "Medicamento": "Midazolam HCl"
+        },
+        {
+            "Data": "5/30/2019",
+            "Medico": "Lorne Haliburton",
+            "Reclamacao": "nulla",
+            "Medicamento": "PAMO Kill Natural"
+        },
+        {
+            "Data": "8/30/2019",
+            "Medico": "Ashla Lob",
+            "Reclamacao": "ultrices, enim lorem ipsum",
+            "Medicamento": "Publix"
+        },
+        {
+            "Data": "6/10/2019",
+            "Medico": "Jerrine Rushby",
+            "Reclamacao": "primis",
+            "Medicamento": "MEDROX"
+        },
+        {
+            "Data": "3/21/2019",
+            "Medico": "Starlin Aleavy",
+            "Reclamacao": "quam",
+            "Medicamento": "Childrens ACCUDIAL"
+        },
+        {
+            "Data": "4/13/2019",
+            "Medico": "Zerk Matsell",
+            "Reclamacao": "congue vivam,us metus arcu",
+            "Medicamento": "Tiger Balm"
+        },
+        {
+            "Data": "12/13/2018",
+            "Medico": "Klara Vassbender",
+            "Reclamacao": "nulla ultrices",
+            "Medicamento": "Pro-Tect SPF 30 Sunscreen"
+        },
+        {
+            "Data": "11/5/2019",
+            "Medico": "Lia Dansken",
+            "Reclamacao": "ornare consequat",
+            "Medicamento": "Neutrogena Rapid Clear 2 in 1 Fight and Fade Toner"
+        },
+        {
+            "Data": "2/28/2019",
+            "Medico": "Andris Powling",
+            "Reclamacao": "vitae n,isi nam ultrices",
+            "Medicamento": "Zosyn"
+        },
+        {
+            "Data": "9/12/2019",
+            "Medico": "Sena Lough",
+            "Reclamacao": "tincidunt,",
+            "Medicamento": "citroma"
+        },
+        {
+            "Data": "2/22/2019",
+            "Medico": "Salomi Hartly",
+            "Reclamacao": "lectus pelle,ntesque",
+            "Medicamento": "Furosemide"
+        },
+        {
+            "Data": "7/31/2019",
+            "Medico": "Tabby Aldersey",
+            "Reclamacao": "non mattis pu,lvinar nulla",
+            "Medicamento": "Oxaliplatin"
+        },
+        {
+            "Data": "11/24/2018",
+            "Medico": "Anet Brogioni",
+            "Reclamacao": "turpis sed an,te vivamus",
+            "Medicamento": "Risperidone"
+        },
+        {
+            "Data": "9/10/2019",
+            "Medico": "Belicia Stiff",
+            "Reclamacao": "sed tristique ,in tempus",
+            "Medicamento": "SaniGuard-SF"
+        },
+        {
+            "Data": "11/18/2019",
+            "Medico": "Rurik Martensen",
+            "Reclamacao": "tincidunt ,eu felis",
+            "Medicamento": "SEROQUEL"
+        },
+        {
+            "Data": "8/6/2019",
+            "Medico": "Dionysus Canby",
+            "Reclamacao": "luctus",
+            "Medicamento": "Loratadine"
+        },
+        {
+            "Data": "8/23/2019",
+            "Medico": "Lonnard Buckler",
+            "Reclamacao": "elit pro,in risus",
+            "Medicamento": "Dentox"
+        },
+        {
+            "Data": "12/11/2018",
+            "Medico": "Mel Eicheler",
+            "Reclamacao": "ligula in lacus curabitur",
+            "Medicamento": "TIZANIDINE HYDROCHLORIDE"
+        },
+        {
+            "Data": "2/10/2019",
+            "Medico": "Jeffie Prickett",
+            "Reclamacao": "nisl duis bibendum",
+            "Medicamento": "Stila Color Correcting Broad Spectrum SPF 20"
+        },
+        {
+            "Data": "12/9/2018",
+            "Medico": "Aretha Poole",
+            "Reclamacao": "in tempor turpis nec,",
+            "Medicamento": "Mometasone Furoate"
+        },
+        {
+            "Data": "4/10/2019",
+            "Medico": "Farrel Smalley",
+            "Reclamacao": "vel augue vestibulum ant,e",
+            "Medicamento": "good sense pain relief"
+        },
+        {
+            "Data": "3/27/2019",
+            "Medico": "Johnny Harkins",
+            "Reclamacao": "integer aliquet massa id",
+            "Medicamento": "ESIKA HYDRACOLOR 2 IN 1 HIGHLY MOISTURIZING AND COLORING SPF 25"
+        },
+        {
+            "Data": "1/14/2019",
+            "Medico": "Elroy Metcalfe",
+            "Reclamacao": "fusce consequat nulla nis,l",
+            "Medicamento": "CVS Medicated Chest Rub"
+        },
+        {
+            "Data": "6/28/2019",
+            "Medico": "Webb Bier",
+            "Reclamacao": "tempus semper",
+            "Medicamento": "Alcohol Prep Pad"
+        },
+        {
+            "Data": "11/7/2019",
+            "Medico": "Brana Viney",
+            "Reclamacao": "auctor sed tristique in",
+            "Medicamento": "esika MEN Control Fresh Deodorant and Antiperspirant"
+        },
+        {
+            "Data": "11/19/2019",
+            "Medico": "Dian Giggs",
+            "Reclamacao": "porttitor i,d consequat",
+            "Medicamento": "Glucotrol"
+        },
+        {
+            "Data": "2/28/2019",
+            "Medico": "Khalil Chessum",
+            "Reclamacao": "consequat l,ectus in est",
+            "Medicamento": "Ibuprofen"
+        },
+        {
+            "Data": "6/27/2019",
+            "Medico": "Meta Athey",
+            "Reclamacao": "vivamus vesti,bulum sagittis sapien",
+            "Medicamento": "Recens Foam"
+        },
+        {
+            "Data": "7/28/2019",
+            "Medico": "Pete Deem",
+            "Reclamacao": "nunc nis,l duis",
+            "Medicamento": "Tobrex"
+        },
+        {
+            "Data": "9/9/2019",
+            "Medico": "Kariotta Hatherley",
+            "Reclamacao": "gravida sem praesent",
+            "Medicamento": "3 CONCEPT EYES GLOSSING WATERFUL FOUNDATION SOFT BEIGE"
+        },
+        {
+            "Data": "4/16/2019",
+            "Medico": "Drusilla Kraft",
+            "Reclamacao": "enim leo rho,ncus",
+            "Medicamento": "Cephalexin"
+        },
+        {
+            "Data": "5/5/2019",
+            "Medico": "Birk Snodin",
+            "Reclamacao": "tempus vivamu,s in felis",
+            "Medicamento": "Creomulsion"
+        },
+        {
+            "Data": "12/7/2018",
+            "Medico": "Brad Worters",
+            "Reclamacao": "sed nisl nunc rhoncus",
+            "Medicamento": "Sulfamethoxazole and Trimethoprim"
+        },
+        {
+            "Data": "8/19/2019",
+            "Medico": "Ferdinand Gemeau",
+            "Reclamacao": "rutrum ac",
+            "Medicamento": "Sprains Tendonitis"
+        },
+        {
+            "Data": "5/15/2019",
+            "Medico": "Bond Doust",
+            "Reclamacao": "pellentesq,ue",
+            "Medicamento": "Sinutone"
+        },
+        {
+            "Data": "7/22/2019",
+            "Medico": "Bell McReynolds",
+            "Reclamacao": "rutrum rutrum",
+            "Medicamento": "Idole Skin Lightening"
+        },
+        {
+            "Data": "3/10/2019",
+            "Medico": "Alexa Burgwin",
+            "Reclamacao": "rhoncus",
+            "Medicamento": "Tri Previfem"
+        },
+        {
+            "Data": "3/21/2019",
+            "Medico": "Sindee Gaymar",
+            "Reclamacao": "quis turpis sed",
+            "Medicamento": "HYDROCHLOROTHIAZIDE"
+        },
+        {
+            "Data": "3/15/2019",
+            "Medico": "Jorie Abramino",
+            "Reclamacao": "cubilia curae ,nulla",
+            "Medicamento": "INDOMETHACIN"
+        },
+        {
+            "Data": "11/28/2018",
+            "Medico": "Annie Wessel",
+            "Reclamacao": "duis",
+            "Medicamento": "Smart Sense Sleep Aid"
+        },
+        {
+            "Data": "8/15/2019",
+            "Medico": "Pandora Casale",
+            "Reclamacao": "turpis sed",
+            "Medicamento": "equaline pain relief"
+        },
+        {
+            "Data": "8/30/2019",
+            "Medico": "Layton Poynter",
+            "Reclamacao": "nisi",
+            "Medicamento": "Pravastatin Sodium"
+        },
+        {
+            "Data": "6/2/2019",
+            "Medico": "Benni Blunsom",
+            "Reclamacao": "dui l,uctus rutrum nulla",
+            "Medicamento": "FNG"
+        },
+        {
+            "Data": "10/12/2019",
+            "Medico": "Aura Skeen",
+            "Reclamacao": "lectus",
+            "Medicamento": "pre fense"
+        },
+        {
+            "Data": "10/25/2019",
+            "Medico": "Laurie Perring",
+            "Reclamacao": "libero",
+            "Medicamento": "Meloxicam"
+        },
+        {
+            "Data": "12/18/2018",
+            "Medico": "Valaree Surr",
+            "Reclamacao": "ipsum dolor",
+            "Medicamento": "topcare flu and severe cold and cough"
+        },
+        {
+            "Data": "10/24/2019",
+            "Medico": "Shea MacNeish",
+            "Reclamacao": "condimentum i,d luctus",
+            "Medicamento": "Se-Natal 19"
+        },
+        {
+            "Data": "8/21/2019",
+            "Medico": "Fernande Lewsey",
+            "Reclamacao": "sem duis aliquam",
+            "Medicamento": "One Step Sanitizer"
+        },
+        {
+            "Data": "9/27/2019",
+            "Medico": "Orville Skewes",
+            "Reclamacao": "id sap,ien",
+            "Medicamento": "LBel"
+        },
+        {
+            "Data": "7/25/2019",
+            "Medico": "Deva Mackin",
+            "Reclamacao": "felis donec s,emper",
+            "Medicamento": "Speed Stick"
+        },
+        {
+            "Data": "10/31/2019",
+            "Medico": "Elbertina Henke",
+            "Reclamacao": "posuere ,felis",
+            "Medicamento": "AVAPRO"
+        },
+        {
+            "Data": "2/8/2019",
+            "Medico": "Orelie Comley",
+            "Reclamacao": "pede venenatis",
+            "Medicamento": "Calcium carbonate"
+        },
+        {
+            "Data": "8/13/2019",
+            "Medico": "Edouard Seabourne",
+            "Reclamacao": "suscipit null,a elit",
+            "Medicamento": "CARBOplatin"
+        },
+        {
+            "Data": "7/28/2019",
+            "Medico": "Lutero Oglesbee",
+            "Reclamacao": "fusce lacus",
+            "Medicamento": "KETOROLAC TROMETHAMINE"
+        },
+        {
+            "Data": "3/21/2019",
+            "Medico": "Tony Addington",
+            "Reclamacao": "sit",
+            "Medicamento": "Hydrogen Peroxide"
+        },
+        {
+            "Data": "1/12/2019",
+            "Medico": "Ronica Littrik",
+            "Reclamacao": "amet nulla",
+            "Medicamento": "Tickling Cough"
+        },
+        {
+            "Data": "11/25/2018",
+            "Medico": "Clemmy Syde",
+            "Reclamacao": "sociis nat,oque penatibus",
+            "Medicamento": "CAPRELSA"
+        },
+        {
+            "Data": "6/4/2019",
+            "Medico": "Jacquelin Bloomfield",
+            "Reclamacao": "tristique fus,ce congue",
+            "Medicamento": "risperidone"
+        },
+        {
+            "Data": "7/22/2019",
+            "Medico": "Phip Hulett",
+            "Reclamacao": "sapien varius ut blandit",
+            "Medicamento": "Bodyglide anti chafe balm"
+        },
+        {
+            "Data": "2/27/2019",
+            "Medico": "Kenn Middas",
+            "Reclamacao": "adipisci,ng elit proin risus",
+            "Medicamento": "ZIAGEN"
+        },
+        {
+            "Data": "1/18/2019",
+            "Medico": "Sterne Honnicott",
+            "Reclamacao": "gravida sem praesent",
+            "Medicamento": "Isomers Clear Skin Acne Treatment Lotion"
+        },
+        {
+            "Data": "11/10/2019",
+            "Medico": "Rudyard de Clercq",
+            "Reclamacao": "hac habitasse, platea dictumst",
+            "Medicamento": "Coast Maple"
+        },
+        {
+            "Data": "2/10/2019",
+            "Medico": "Poul Mainston",
+            "Reclamacao": "libero",
+            "Medicamento": "pioglitazone hydrochloride"
+        },
+        {
+            "Data": "8/23/2019",
+            "Medico": "Wrennie Dewfall",
+            "Reclamacao": "erat",
+            "Medicamento": "Atgam"
+        },
+        {
+            "Data": "7/31/2019",
+            "Medico": "Yvor Robichon",
+            "Reclamacao": "lobortis convallis torto,r risus",
+            "Medicamento": "Carbidopa and Levodopa"
+        },
+        {
+            "Data": "3/26/2019",
+            "Medico": "Maegan Puttrell",
+            "Reclamacao": "sit",
+            "Medicamento": "AHC Intense Contour Balm Light"
+        },
+        {
+            "Data": "3/10/2019",
+            "Medico": "Conny Turone",
+            "Reclamacao": "pede justo eu massa",
+            "Medicamento": "Orajel Antiseptic Rinse for Mouth Sores"
+        },
+        {
+            "Data": "5/25/2019",
+            "Medico": "Kesley Coveney",
+            "Reclamacao": "sollicitudin",
+            "Medicamento": "stila CC color correcting broad-spectrum SPF 20 08 TAN"
+        },
+        {
+            "Data": "10/3/2019",
+            "Medico": "Richy Flea",
+            "Reclamacao": "nonummy",
+            "Medicamento": "ENDOCET"
+        },
+        {
+            "Data": "5/31/2019",
+            "Medico": "Torrin Demongeot",
+            "Reclamacao": "consectetuer eget r,utrum",
+            "Medicamento": "Myferon 150 Forte"
+        },
+        {
+            "Data": "2/6/2019",
+            "Medico": "Pippo Sand",
+            "Reclamacao": "ipsum primi,s",
+            "Medicamento": "Strattera"
+        },
+        {
+            "Data": "9/11/2019",
+            "Medico": "Ursa Knappitt",
+            "Reclamacao": "pellentesque quisque",
+            "Medicamento": "Direct Safety Extra Strength Aspirin Free"
+        },
+        {
+            "Data": "6/2/2019",
+            "Medico": "Benedetta Triner",
+            "Reclamacao": "nullam p,orttitor lacus",
+            "Medicamento": "Coffee"
+        },
+        {
+            "Data": "7/16/2019",
+            "Medico": "Meryl Romain",
+            "Reclamacao": "libero con,vallis eget eleifend",
+            "Medicamento": "Pleo Pin"
+        },
+        {
+            "Data": "2/15/2019",
+            "Medico": "Hanna MacNeilly",
+            "Reclamacao": "nisl",
+            "Medicamento": "Diclofenac Sodium"
+        },
+        {
+            "Data": "1/9/2019",
+            "Medico": "Suzann Ronci",
+            "Reclamacao": "ligula suspendi,sse ornare consequat",
+            "Medicamento": "Arroyo Willow"
+        },
+        {
+            "Data": "8/22/2019",
+            "Medico": "Vachel Itter",
+            "Reclamacao": "sed lacus mo,rbi sem",
+            "Medicamento": "Cephalexin"
+        },
+        {
+            "Data": "11/22/2019",
+            "Medico": "Teri Stitle",
+            "Reclamacao": "montes nasc,etur ridiculus mus",
+            "Medicamento": "Fenoglide"
+        },
+        {
+            "Data": "4/5/2019",
+            "Medico": "Elvina Ronaghan",
+            "Reclamacao": "in lectus",
+            "Medicamento": "lisinopril"
+        },
+        {
+            "Data": "12/17/2018",
+            "Medico": "Terrel Lowey",
+            "Reclamacao": "sit amet",
+            "Medicamento": "LiverActive"
+        },
+        {
+            "Data": "3/7/2019",
+            "Medico": "Kelvin Charette",
+            "Reclamacao": "mus vivamus vest,ibulum",
+            "Medicamento": "clarithromycin"
+        },
+        {
+            "Data": "4/9/2019",
+            "Medico": "Gerianna Butteris",
+            "Reclamacao": "cras",
+            "Medicamento": "Elta MD UV Clear"
+        },
+        {
+            "Data": "3/19/2019",
+            "Medico": "Clem Thurber",
+            "Reclamacao": "ligula pe,llentesque ultrices",
+            "Medicamento": "Herring"
+        },
+        {
+            "Data": "4/17/2019",
+            "Medico": "Vivien Thompkins",
+            "Reclamacao": "sociis natoque p,enatibus",
+            "Medicamento": "MUCOR PLUMBEUS"
+        },
+        {
+            "Data": "12/23/2018",
+            "Medico": "Langsdon Goldby",
+            "Reclamacao": "amet eros suspendisse",
+            "Medicamento": "WHITE FLOWER STRAIN RELIEF"
+        },
+        {
+            "Data": "8/13/2019",
+            "Medico": "Virginie Dabrowski",
+            "Reclamacao": "faucibus orci luctus",
+            "Medicamento": "Skin Care Prescription"
+        },
+        {
+            "Data": "10/14/2019",
+            "Medico": "Ansell Widdowson",
+            "Reclamacao": "ut volutpa,t",
+            "Medicamento": "Altipres"
+        },
+        {
+            "Data": "4/26/2019",
+            "Medico": "Rubina Curedell",
+            "Reclamacao": "odio",
+            "Medicamento": "Gentamicin Sulfate"
+        },
+        {
+            "Data": "12/20/2018",
+            "Medico": "Mamie Metson",
+            "Reclamacao": "quam sollicitudin",
+            "Medicamento": "Super Plus Beblesh Balm Triple Functions SPF50 Plus PA 3Plus (40g)"
+        },
+        {
+            "Data": "1/28/2019",
+            "Medico": "Borg Paterno",
+            "Reclamacao": "turpis enim",
+            "Medicamento": "Lisinopril"
+        },
+        {
+            "Data": "8/15/2019",
+            "Medico": "Raleigh Scala",
+            "Reclamacao": "platea dictumst maecenas ut",
+            "Medicamento": "Betamethasone Dipropionate"
+        },
+        {
+            "Data": "7/21/2019",
+            "Medico": "Nicky Barrar",
+            "Reclamacao": "vivamus",
+            "Medicamento": "Fluoxetine Hydrochloride"
+        },
+        {
+            "Data": "7/18/2019",
+            "Medico": "Timmie Bedin",
+            "Reclamacao": "dui",
+            "Medicamento": "Personal Care Antibacterial Foaming Hand Wash"
+        },
+        {
+            "Data": "1/16/2019",
+            "Medico": "Parnell Polkinhorn",
+            "Reclamacao": "ac nibh",
+            "Medicamento": "Topiramate"
+        },
+        {
+            "Data": "10/13/2019",
+            "Medico": "Wolfy Serjeant",
+            "Reclamacao": "morbi vestibul,um velit id",
+            "Medicamento": "Fluocinonide"
+        },
+        {
+            "Data": "12/8/2018",
+            "Medico": "Lezlie Stebbing",
+            "Reclamacao": "imperdiet",
+            "Medicamento": "Headache Relief PM"
+        },
+        {
+            "Data": "7/1/2019",
+            "Medico": "Von Phillipps",
+            "Reclamacao": "porttitor",
+            "Medicamento": "Hydromorphone Hydrochloride"
+        },
+        {
+            "Data": "1/9/2019",
+            "Medico": "Collie Rycraft",
+            "Reclamacao": "bibendum morbi non",
+            "Medicamento": "Levothyroxine Sodium"
+        },
+        {
+            "Data": "1/19/2019",
+            "Medico": "Debby Kermitt",
+            "Reclamacao": "sem duis aliquam",
+            "Medicamento": "Quetiapine fumarate"
+        },
+        {
+            "Data": "8/31/2019",
+            "Medico": "Bradly Witch",
+            "Reclamacao": "lectus pellentesque at",
+            "Medicamento": "Telmisartan and Hydrochlorothiazide"
+        },
+        {
+            "Data": "12/23/2018",
+            "Medico": "Rudy Lamberti",
+            "Reclamacao": "vivamus",
+            "Medicamento": "GLYCOPYRROLATE"
+        },
+        {
+            "Data": "10/21/2019",
+            "Medico": "Morena Aylesbury",
+            "Reclamacao": "eget nunc donec",
+            "Medicamento": "Standardized Grass Pollen Grass Mix 4"
+        },
+        {
+            "Data": "5/3/2019",
+            "Medico": "Mitchell Tearle",
+            "Reclamacao": "tempus semper",
+            "Medicamento": "TRUFFLE EX WRINKLE EMULSION"
+        },
+        {
+            "Data": "6/12/2019",
+            "Medico": "Jaymie Kirkup",
+            "Reclamacao": "nunc",
+            "Medicamento": "Amitriptyline Hydrochloride"
+        },
+        {
+            "Data": "6/14/2019",
+            "Medico": "Costanza Docksey",
+            "Reclamacao": "eget vulputate ut",
+            "Medicamento": "Cover Fx Blemish Treatment Concealer G Medium"
+        },
+        {
+            "Data": "4/3/2019",
+            "Medico": "Allyn Braune",
+            "Reclamacao": "nec condimentum neque sapien",
+            "Medicamento": "Hand Guard Foaming Antimicrobial"
+        },
+        {
+            "Data": "5/14/2019",
+            "Medico": "Emelen Krabbe",
+            "Reclamacao": "aenean sit amet justo",
+            "Medicamento": "Alpan 40 (Numero 110)"
+        },
+        {
+            "Data": "3/26/2019",
+            "Medico": "Nicola Smeeton",
+            "Reclamacao": "suscipit",
+            "Medicamento": "BIVIGAM"
+        },
+        {
+            "Data": "8/25/2019",
+            "Medico": "Catha Gonet",
+            "Reclamacao": "sagittis nam",
+            "Medicamento": "Pramipexole"
+        },
+        {
+            "Data": "9/5/2019",
+            "Medico": "Vere Monelli",
+            "Reclamacao": "velit nec n,isi",
+            "Medicamento": "ABROTANUM"
+        },
+        {
+            "Data": "3/19/2019",
+            "Medico": "Jojo Boulden",
+            "Reclamacao": "vestibulum ante",
+            "Medicamento": "All Day Allergy"
+        },
+        {
+            "Data": "12/27/2018",
+            "Medico": "Gayle MacDuffie",
+            "Reclamacao": "sapien urna",
+            "Medicamento": "DIPYRIDAMOLE"
+        },
+        {
+            "Data": "7/12/2019",
+            "Medico": "Edith Jinkin",
+            "Reclamacao": "nec molestie sed",
+            "Medicamento": "MISSHA M SWIRL BB SUN BALM"
+        },
+        {
+            "Data": "11/20/2019",
+            "Medico": "Shem Elsley",
+            "Reclamacao": "blandit nam ,nulla",
+            "Medicamento": "Gabapentin"
+        },
+        {
+            "Data": "1/10/2019",
+            "Medico": "Daisie Spieck",
+            "Reclamacao": "justo so,llicitudin ut",
+            "Medicamento": "Elocon"
+        },
+        {
+            "Data": "2/5/2019",
+            "Medico": "Dorothea Hanne",
+            "Reclamacao": "integer non velit",
+            "Medicamento": "Animal Allergens Feather Mix"
+        },
+        {
+            "Data": "5/1/2019",
+            "Medico": "Sergeant Rignoldes",
+            "Reclamacao": "nulla ut",
+            "Medicamento": "JUNIPERUS CALIFORNICA POLLEN"
+        },
+        {
+            "Data": "5/10/2019",
+            "Medico": "Cornelia Hanshaw",
+            "Reclamacao": "luctus nec m,olestie sed",
+            "Medicamento": "Vitafol OB"
+        },
+        {
+            "Data": "10/22/2019",
+            "Medico": "Gerik McJury",
+            "Reclamacao": "in hac habitasse",
+            "Medicamento": "CITALOPRAM HYDROBROMIDE"
+        },
+        {
+            "Data": "12/31/2018",
+            "Medico": "Raye Espine",
+            "Reclamacao": "sed vestibulum sit",
+            "Medicamento": "Childrens Earache Relief"
+        },
+        {
+            "Data": "12/7/2018",
+            "Medico": "Duncan Criple",
+            "Reclamacao": "morbi non le,ctus aliquam",
+            "Medicamento": "Felodipine"
+        },
+        {
+            "Data": "12/15/2018",
+            "Medico": "Karyn Tezure",
+            "Reclamacao": "consequat d,ui nec nisi",
+            "Medicamento": "Bio Gorse"
+        },
+        {
+            "Data": "9/13/2019",
+            "Medico": "Aleksandr Paulmann",
+            "Reclamacao": "a nibh in, quis",
+            "Medicamento": "Relovox"
+        },
+        {
+            "Data": "3/8/2019",
+            "Medico": "Marcela Bilson",
+            "Reclamacao": "morbi odio odio",
+            "Medicamento": "LOreal Paris Avancado Suncare Silky Sheer 30 Broad Spectrum SPF 30 Sunscreen"
+        },
+        {
+            "Data": "7/24/2019",
+            "Medico": "Maximilien Merryfield",
+            "Reclamacao": "dapibus nulla ,suscipit",
+            "Medicamento": "ibuprofen ib"
+        },
+        {
+            "Data": "12/22/2018",
+            "Medico": "Lissie Faustin",
+            "Reclamacao": "consequat varius",
+            "Medicamento": "Quetiapine fumarate"
+        },
+        {
+            "Data": "5/20/2019",
+            "Medico": "Pernell Tokley",
+            "Reclamacao": "gravida sem",
+            "Medicamento": "Petroleum Skin Protectant"
+        },
+        {
+            "Data": "11/27/2018",
+            "Medico": "Cristionna Talby",
+            "Reclamacao": "quis augue luctus tincid,unt",
+            "Medicamento": "Treatment Set TS349631"
+        },
+        {
+            "Data": "3/22/2019",
+            "Medico": "Mose Prestner",
+            "Reclamacao": "lacus morbi sem mauris",
+            "Medicamento": "Doctor Hoys Natural Pain Relief"
+        },
+        {
+            "Data": "9/25/2019",
+            "Medico": "Cathrin Lammas",
+            "Reclamacao": "magna",
+            "Medicamento": "Hydrocodone Bitartrate and Acetaminophen"
+        },
+        {
+            "Data": "5/2/2019",
+            "Medico": "Tomlin Covolini",
+            "Reclamacao": "neque vestibulum eg,et",
+            "Medicamento": "Cefuroxime Axetil"
+        },
+        {
+            "Data": "1/24/2019",
+            "Medico": "Son Balden",
+            "Reclamacao": "dolor quis",
+            "Medicamento": "Winter Vanilla Hand Sanitizer"
+        },
+        {
+            "Data": "2/24/2019",
+            "Medico": "Sukey Goodman",
+            "Reclamacao": "justo lacinia eget",
+            "Medicamento": "Calcium Disodium Versenate"
+        },
+        {
+            "Data": "1/30/2019",
+            "Medico": "Deerdre Blackwood",
+            "Reclamacao": "tortor quis turpis",
+            "Medicamento": "Premier Value Bisacodyl Laxative"
+        },
+        {
+            "Data": "2/11/2019",
+            "Medico": "Angelo Byrne",
+            "Reclamacao": "gravida sem praesent id,",
+            "Medicamento": "SohMed Extra Strength"
+        },
+        {
+            "Data": "10/26/2019",
+            "Medico": "Berte Verry",
+            "Reclamacao": "ut odio",
+            "Medicamento": "Childrens QPAP"
+        },
+        {
+            "Data": "11/5/2019",
+            "Medico": "Nomi Palley",
+            "Reclamacao": "quis justo",
+            "Medicamento": "GARAMYCIN"
+        },
+        {
+            "Data": "11/27/2018",
+            "Medico": "Caty McEntagart",
+            "Reclamacao": "vestibulum",
+            "Medicamento": "Arnica Montana"
+        },
+        {
+            "Data": "9/15/2019",
+            "Medico": "Falkner Whitewood",
+            "Reclamacao": "justo aliquam",
+            "Medicamento": "Valacyclovir Hydrochloride"
+        },
+        {
+            "Data": "9/29/2019",
+            "Medico": "Zola Colby",
+            "Reclamacao": "rutrum a,t",
+            "Medicamento": "PAROEX"
+        },
+        {
+            "Data": "2/28/2019",
+            "Medico": "Austina Odhams",
+            "Reclamacao": "fermentum",
+            "Medicamento": "Stretch Mark Control"
+        },
+        {
+            "Data": "3/26/2019",
+            "Medico": "Kate Bromley",
+            "Reclamacao": "pede libero",
+            "Medicamento": "OHM Endocrine Feminine Terrain"
+        },
+        {
+            "Data": "6/22/2019",
+            "Medico": "Benito Durban",
+            "Reclamacao": "in felis do,nec semper",
+            "Medicamento": "VP-CH-PNV"
+        },
+        {
+            "Data": "9/12/2019",
+            "Medico": "Tracee Lesley",
+            "Reclamacao": "lorem id ligula",
+            "Medicamento": "SPINY PIGWEED POLLEN"
+        },
+        {
+            "Data": "9/3/2019",
+            "Medico": "Guillema Vittore",
+            "Reclamacao": "vitae consectetuer eget rutrum",
+            "Medicamento": "dg health arthritis pain relief"
+        },
+        {
+            "Data": "5/17/2019",
+            "Medico": "Fawne Giacomucci",
+            "Reclamacao": "vitae",
+            "Medicamento": "Endocrine Balancer"
+        },
+        {
+            "Data": "3/6/2019",
+            "Medico": "Lorita Pittendreigh",
+            "Reclamacao": "consequat ut",
+            "Medicamento": "Losartan Potassium"
+        },
+        {
+            "Data": "11/17/2019",
+            "Medico": "Cornie Kinnach",
+            "Reclamacao": "suspendisse potenti nulla,m porttitor",
+            "Medicamento": "Labetalol Hydrochloride"
+        },
+        {
+            "Data": "5/19/2019",
+            "Medico": "Gnni Riggeard",
+            "Reclamacao": "neque dui,s",
+            "Medicamento": "ZEMPLAR"
+        },
+        {
+            "Data": "11/28/2018",
+            "Medico": "Eldin McRill",
+            "Reclamacao": "massa",
+            "Medicamento": "MEGA-C-ACID"
+        },
+        {
+            "Data": "5/22/2019",
+            "Medico": "Natasha Truckell",
+            "Reclamacao": "nec sem duis aliquam",
+            "Medicamento": "LBEL RENOVANCE JOUR Daytime Face SPF 15 All Skin Types"
+        },
+        {
+            "Data": "2/22/2019",
+            "Medico": "Annadiane Hall-Gough",
+            "Reclamacao": "vestibulum eget vulputate ut",
+            "Medicamento": "Citrus Basil Antibacterial Creamy Hand Wash"
+        },
+        {
+            "Data": "6/22/2019",
+            "Medico": "Emera Dell Casa",
+            "Reclamacao": "ut tellus nulla ut",
+            "Medicamento": "Foaming Instant Hand Sanitizer with Aloe and Vitamin E"
+        },
+        {
+            "Data": "8/15/2019",
+            "Medico": "Storm Bilovus",
+            "Reclamacao": "libero rutrum ac lobor,tis",
+            "Medicamento": "Natural Fiber Powder"
+        },
+        {
+            "Data": "3/10/2019",
+            "Medico": "Maddy Chiene",
+            "Reclamacao": "mattis",
+            "Medicamento": "Ibuprofen"
+        },
+        {
+            "Data": "2/25/2019",
+            "Medico": "Harriott Paffitt",
+            "Reclamacao": "sit amet e,leifend",
+            "Medicamento": "Protonix"
+        },
+        {
+            "Data": "11/9/2019",
+            "Medico": "Thea Keymer",
+            "Reclamacao": "sapien",
+            "Medicamento": "SENNA TIME"
+        },
+        {
+            "Data": "3/26/2019",
+            "Medico": "Panchito Gulliver",
+            "Reclamacao": "morbi ut odio",
+            "Medicamento": "Metoprolol Succinate"
+        },
+        {
+            "Data": "3/28/2019",
+            "Medico": "Siana Ruane",
+            "Reclamacao": "vitae ipsu,m",
+            "Medicamento": "Vanquish"
+        },
+        {
+            "Data": "2/3/2019",
+            "Medico": "Margy Greenrde",
+            "Reclamacao": "platea dictumst ali,quam",
+            "Medicamento": "albuterol sulfate"
+        },
+        {
+            "Data": "6/13/2019",
+            "Medico": "Selie Tapsell",
+            "Reclamacao": "interdum mauris",
+            "Medicamento": "Neomycin and Polymyxin B Sulfates and Hydrocortisone"
+        },
+        {
+            "Data": "4/17/2019",
+            "Medico": "Jase Pattlel",
+            "Reclamacao": "in tempor turpis ,nec",
+            "Medicamento": "SUPER ORIGIN CC"
+        },
+        {
+            "Data": "6/5/2019",
+            "Medico": "Tessa Couves",
+            "Reclamacao": "vivamus tortor duis m,attis",
+            "Medicamento": "TIANHE ZHUIFENG GAO"
+        },
+        {
+            "Data": "5/15/2019",
+            "Medico": "Nelle Pioli",
+            "Reclamacao": "molestie,",
+            "Medicamento": "NIACIN"
+        },
+        {
+            "Data": "10/22/2019",
+            "Medico": "Timi Bedrosian",
+            "Reclamacao": "sed tristiqu,e",
+            "Medicamento": "lisinopril"
+        },
+        {
+            "Data": "12/18/2018",
+            "Medico": "Ian Stanier",
+            "Reclamacao": "vestibulum ante ipsum ,primis",
+            "Medicamento": "OLEA EUROPAEA POLLEN"
+        },
+        {
+            "Data": "11/8/2019",
+            "Medico": "Reube Seville",
+            "Reclamacao": "nibh",
+            "Medicamento": "kirkland signature omeprazole"
+        },
+        {
+            "Data": "11/13/2019",
+            "Medico": "Emerson Barenskie",
+            "Reclamacao": "ut rhoncus",
+            "Medicamento": "Temazepam"
+        },
+        {
+            "Data": "8/27/2019",
+            "Medico": "Tedd O' Mulderrig",
+            "Reclamacao": "et tempus, semper est",
+            "Medicamento": "ZYPREXA"
+        },
+        {
+            "Data": "9/1/2019",
+            "Medico": "Agathe Bucknill",
+            "Reclamacao": "praesent",
+            "Medicamento": "Fosinopril Sodium and Hydrochlorothiazide"
+        },
+        {
+            "Data": "11/23/2019",
+            "Medico": "Charlotte Clausson",
+            "Reclamacao": "velit donec",
+            "Medicamento": "Galantamine hydrobromide"
+        },
+        {
+            "Data": "7/30/2019",
+            "Medico": "Jenifer Heritege",
+            "Reclamacao": "ante vestibulum",
+            "Medicamento": "PROCHLORPERAZINE MasculinoATE"
+        },
+        {
+            "Data": "1/28/2019",
+            "Medico": "Sutherland Vaggers",
+            "Reclamacao": "sem duis ali,quam",
+            "Medicamento": "Octreotide"
+        },
+        {
+            "Data": "8/6/2019",
+            "Medico": "Peadar Dewsnap",
+            "Reclamacao": "cum",
+            "Medicamento": "Cinnamon Clove Antibacterial Foaming Hand Wash"
+        },
+        {
+            "Data": "1/27/2019",
+            "Medico": "Hagan Sharpley",
+            "Reclamacao": "diam in m,agna",
+            "Medicamento": "Crestor"
+        },
+        {
+            "Data": "6/23/2019",
+            "Medico": "Katerina Mordy",
+            "Reclamacao": "mattis pulvinar",
+            "Medicamento": "Sure Conditioning Solid Vitamin Infusion"
+        },
+        {
+            "Data": "10/25/2019",
+            "Medico": "Devy Kimmings",
+            "Reclamacao": "nisl",
+            "Medicamento": "meijer"
+        },
+        {
+            "Data": "2/19/2019",
+            "Medico": "Dimitry Sherer",
+            "Reclamacao": "luctus ultricie,s",
+            "Medicamento": "Bacti-Stat AE"
+        },
+        {
+            "Data": "7/2/2019",
+            "Medico": "Demott Gateman",
+            "Reclamacao": "orci nullam molestie",
+            "Medicamento": "The Cover Classic Pro Foundation"
+        },
+        {
+            "Data": "6/4/2019",
+            "Medico": "Inigo Brundell",
+            "Reclamacao": "molestie ,lorem quisque ut",
+            "Medicamento": "ZzzQuil"
+        },
+        {
+            "Data": "1/25/2019",
+            "Medico": "Joella Braithwait",
+            "Reclamacao": "nisl",
+            "Medicamento": "babies r us gas relief"
+        },
+        {
+            "Data": "5/2/2019",
+            "Medico": "Rhys MacCallum",
+            "Reclamacao": "dui vel nisl",
+            "Medicamento": "Pro Therapy MD"
+        },
+        {
+            "Data": "1/21/2019",
+            "Medico": "Clary Lere",
+            "Reclamacao": "dictumst morbi",
+            "Medicamento": "AMERICAN COCKROACH"
+        },
+        {
+            "Data": "12/6/2018",
+            "Medico": "Archibaldo Pettingill",
+            "Reclamacao": "venenat,is non sodales sed",
+            "Medicamento": "ESIKA"
+        },
+        {
+            "Data": "4/22/2019",
+            "Medico": "Bryna Seals",
+            "Reclamacao": "ultrices libero non ,mattis",
+            "Medicamento": "Therapeutic T Plus"
+        },
+        {
+            "Data": "9/20/2019",
+            "Medico": "Gerhardt Arrigucci",
+            "Reclamacao": "ornare i,mperdiet sapien urna",
+            "Medicamento": "femhrt"
+        },
+        {
+            "Data": "6/3/2019",
+            "Medico": "Devondra Landa",
+            "Reclamacao": "cubilia cur,ae mauris",
+            "Medicamento": "Zithromax"
+        },
+        {
+            "Data": "11/8/2019",
+            "Medico": "Coletta Wetherill",
+            "Reclamacao": "dui",
+            "Medicamento": "Cinnamon Sticks Antibacterial Foaming Hand Wash"
+        },
+        {
+            "Data": "3/1/2019",
+            "Medico": "Olvan Malsher",
+            "Reclamacao": "mauris eget massa tempor",
+            "Medicamento": "Terazosin Hydrochloride Anhydrous"
+        },
+        {
+            "Data": "7/14/2019",
+            "Medico": "Jacki Aylesbury",
+            "Reclamacao": "dapibus dolor",
+            "Medicamento": "Buxom Show Some Skin Weightless Foundation Broad Spectrum SPF 30"
+        },
+        {
+            "Data": "7/3/2019",
+            "Medico": "Nickolaus Guye",
+            "Reclamacao": "pede justo laci,nia eget",
+            "Medicamento": "Inflamma-Tone"
+        },
+        {
+            "Data": "3/13/2019",
+            "Medico": "Marketa Steynor",
+            "Reclamacao": "ante nulla jus,to",
+            "Medicamento": "Pioglitazone"
+        },
+        {
+            "Data": "7/2/2019",
+            "Medico": "Halli Armiger",
+            "Reclamacao": "eu magna vulputate",
+            "Medicamento": "Losartan Potassium and Hydrochlorothiazide"
+        },
+        {
+            "Data": "3/24/2019",
+            "Medico": "Isidor Worsnop",
+            "Reclamacao": "quam",
+            "Medicamento": "Doxycycline Hyclate"
+        },
+        {
+            "Data": "6/29/2019",
+            "Medico": "Britt Thorlby",
+            "Reclamacao": "convallis eget",
+            "Medicamento": "NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL"
+        },
+        {
+            "Data": "3/9/2019",
+            "Medico": "Albina Burdon",
+            "Reclamacao": "nullam",
+            "Medicamento": "Methylphenidate Hydrochloride"
+        },
+        {
+            "Data": "12/26/2018",
+            "Medico": "Harlie Buckston",
+            "Reclamacao": "laoreet",
+            "Medicamento": "Candicide 12X"
+        },
+        {
+            "Data": "4/21/2019",
+            "Medico": "Giles Tomasello",
+            "Reclamacao": "odio conseq,uat varius",
+            "Medicamento": "SENSODYNE"
+        },
+        {
+            "Data": "11/6/2019",
+            "Medico": "Godfree Megany",
+            "Reclamacao": "vivamus vel n,ulla eget",
+            "Medicamento": "Risperidone"
+        },
+        {
+            "Data": "9/28/2019",
+            "Medico": "Ronica Service",
+            "Reclamacao": "accumsan fe,lis",
+            "Medicamento": "Pertussis"
+        },
+        {
+            "Data": "6/20/2019",
+            "Medico": "Teodora Christian",
+            "Reclamacao": "in tempus s,it amet",
+            "Medicamento": "Body Pure"
+        },
+        {
+            "Data": "3/27/2019",
+            "Medico": "Prentiss Radbourne",
+            "Reclamacao": "dapibus at diam",
+            "Medicamento": "Smart Sense Childrens Allergy"
+        },
+        {
+            "Data": "11/3/2019",
+            "Medico": "Mathias Robbeke",
+            "Reclamacao": "erat vestibulum sed m,agna",
+            "Medicamento": "quetiapine fumarate"
+        },
+        {
+            "Data": "1/8/2019",
+            "Medico": "Susannah Kingcott",
+            "Reclamacao": "pulvinar lobortis es,t phasellus",
+            "Medicamento": "Ceftriaxone Sodium"
+        },
+        {
+            "Data": "12/5/2018",
+            "Medico": "Levey Seth",
+            "Reclamacao": "integer no,n",
+            "Medicamento": "CARE ONE"
+        },
+        {
+            "Data": "5/21/2019",
+            "Medico": "Sloan Rentcome",
+            "Reclamacao": "interdum",
+            "Medicamento": "Heparin Sodium"
+        },
+        {
+            "Data": "11/2/2019",
+            "Medico": "Arline Angus",
+            "Reclamacao": "etiam vel augue,",
+            "Medicamento": "Ciprofloxacin"
+        },
+        {
+            "Data": "12/4/2018",
+            "Medico": "Farica Dugood",
+            "Reclamacao": "suscipit nulla elit",
+            "Medicamento": "Doxepin Hydrochloride"
+        },
+        {
+            "Data": "7/5/2019",
+            "Medico": "Rhody Battany",
+            "Reclamacao": "metus vitae ipsum",
+            "Medicamento": "Healing After Surgery"
+        },
+        {
+            "Data": "10/26/2019",
+            "Medico": "Itch Aluard",
+            "Reclamacao": "id",
+            "Medicamento": "Isosorbide Dinitrate"
+        },
+        {
+            "Data": "8/31/2019",
+            "Medico": "Welch Rubenovic",
+            "Reclamacao": "lectus pellen,tesque eget",
+            "Medicamento": "Amoxicillin"
+        },
+        {
+            "Data": "10/28/2019",
+            "Medico": "Andris Tompsett",
+            "Reclamacao": "aliquam sit,",
+            "Medicamento": "Amnesteem"
+        },
+        {
+            "Data": "2/19/2019",
+            "Medico": "Jackie Rodie",
+            "Reclamacao": "nulla integer",
+            "Medicamento": "Fexofenadine Hydrochloride"
+        },
+        {
+            "Data": "5/25/2019",
+            "Medico": "Sandy McMurthy",
+            "Reclamacao": "pellentesque q,uisque porta",
+            "Medicamento": "Rohto Arctic"
+        },
+        {
+            "Data": "7/31/2019",
+            "Medico": "Sergeant Prier",
+            "Reclamacao": "lectus",
+            "Medicamento": "up and up cold and hot medicated"
+        },
+        {
+            "Data": "4/11/2019",
+            "Medico": "Grove Goldup",
+            "Reclamacao": "id",
+            "Medicamento": "Lidocaine Hydrochloride"
+        },
+        {
+            "Data": "8/11/2019",
+            "Medico": "Adham Yantsurev",
+            "Reclamacao": "magna",
+            "Medicamento": "Best Choice Oil-Free Acne Wash Foaming Scrub"
+        },
+        {
+            "Data": "8/4/2019",
+            "Medico": "Timi Hedau",
+            "Reclamacao": "in consequat",
+            "Medicamento": "Venlafaxine Hydrochloride"
+        },
+        {
+            "Data": "7/8/2019",
+            "Medico": "Shawna Codrington",
+            "Reclamacao": "nec dui l,uctus",
+            "Medicamento": "Desenex"
+        },
+        {
+            "Data": "10/4/2019",
+            "Medico": "Genia Gosnoll",
+            "Reclamacao": "in fau,cibus",
+            "Medicamento": "Dove"
+        },
+        {
+            "Data": "7/19/2019",
+            "Medico": "Guillemette Lamberto",
+            "Reclamacao": "potenti cras in",
+            "Medicamento": "Nasal Decongestant PE"
+        },
+        {
+            "Data": "2/7/2019",
+            "Medico": "Adi Winridge",
+            "Reclamacao": "morbi odio",
+            "Medicamento": "Levothyroxine Sodium"
+        },
+        {
+            "Data": "2/16/2019",
+            "Medico": "Marsiella Russon",
+            "Reclamacao": "pellentesque",
+            "Medicamento": "Povidone-Iodine"
+        },
+        {
+            "Data": "6/2/2019",
+            "Medico": "Phelia Coate",
+            "Reclamacao": "ornare consequat lectus in",
+            "Medicamento": "Vitale Sensitive Scalp Daily Scalp Healer"
+        },
+        {
+            "Data": "11/10/2019",
+            "Medico": "Kimberlee Bordman",
+            "Reclamacao": "rutrum, at lorem integer",
+            "Medicamento": "Dove"
+        },
+        {
+            "Data": "7/4/2019",
+            "Medico": "Burnaby Calyton",
+            "Reclamacao": "in sagittis",
+            "Medicamento": "DOPamine Hydrochloride"
+        },
+        {
+            "Data": "11/23/2019",
+            "Medico": "Dacey Sewill",
+            "Reclamacao": "phasellus id,",
+            "Medicamento": "Di-Dak-Sol"
+        },
+        {
+            "Data": "11/7/2019",
+            "Medico": "Timothee Lisle",
+            "Reclamacao": "primis",
+            "Medicamento": "BENZTROPINE MESYLATE"
+        },
+        {
+            "Data": "2/10/2019",
+            "Medico": "Ardis Dolbey",
+            "Reclamacao": "congue risus",
+            "Medicamento": "Extra Strength Pain Relief"
+        },
+        {
+            "Data": "5/24/2019",
+            "Medico": "Herschel Veschambre",
+            "Reclamacao": "etiam",
+            "Medicamento": "dg health cold and flu relief"
+        },
+        {
+            "Data": "7/7/2019",
+            "Medico": "Florence Newborn",
+            "Reclamacao": "morbi vestibulum velit",
+            "Medicamento": "Humco Mineral Oil Heavy"
+        },
+        {
+            "Data": "8/17/2019",
+            "Medico": "Joela Jeffes",
+            "Reclamacao": "rhoncus sed v,estibulum sit",
+            "Medicamento": "Burn Relief"
+        },
+        {
+            "Data": "6/23/2019",
+            "Medico": "Giana Manthroppe",
+            "Reclamacao": "fermentum",
+            "Medicamento": "HealthMart Chest Congestion Relief DMDM"
+        },
+        {
+            "Data": "10/16/2019",
+            "Medico": "Hilde Kmietsch",
+            "Reclamacao": "luctus nec molestie",
+            "Medicamento": "BUPROPION HYDROCHLORIDE"
+        },
+        {
+            "Data": "6/28/2019",
+            "Medico": "Fabiano Kenington",
+            "Reclamacao": "convallis",
+            "Medicamento": "Losartan potassium and hydrochlorothiazide"
+        },
+        {
+            "Data": "2/18/2019",
+            "Medico": "Clyde Ziems",
+            "Reclamacao": "nulla ut",
+            "Medicamento": "IBUPROFEN"
+        },
+        {
+            "Data": "1/16/2019",
+            "Medico": "Orel Oliveti",
+            "Reclamacao": "sit amet lobortis",
+            "Medicamento": "Butorphanol Tartrate"
+        },
+        {
+            "Data": "2/6/2019",
+            "Medico": "Tremaine Herity",
+            "Reclamacao": "ut suscipit a",
+            "Medicamento": "LEADER ALL DAY ALLERGY"
+        },
+        {
+            "Data": "5/30/2019",
+            "Medico": "Benedicta Belin",
+            "Reclamacao": "odio curabitur convalli,s duis",
+            "Medicamento": "equaline hemorrhoidal"
+        },
+        {
+            "Data": "8/19/2019",
+            "Medico": "Stephie Belhome",
+            "Reclamacao": "velit",
+            "Medicamento": "Zohydro"
+        },
+        {
+            "Data": "2/26/2019",
+            "Medico": "Windy Clayal",
+            "Reclamacao": "euismod, scelerisque",
+            "Medicamento": "Rydex"
+        },
+        {
+            "Data": "5/19/2019",
+            "Medico": "Yoshiko Moore",
+            "Reclamacao": "tempor",
+            "Medicamento": "Up and Up Nicotine"
+        },
+        {
+            "Data": "6/19/2019",
+            "Medico": "Linnet Crookall",
+            "Reclamacao": "in faucibus",
+            "Medicamento": "Childrens Pain and Fever"
+        },
+        {
+            "Data": "9/9/2019",
+            "Medico": "Letty Demchen",
+            "Reclamacao": "vel",
+            "Medicamento": "Hydrocodone Bitartrate And Acetaminophen"
+        },
+        {
+            "Data": "6/10/2019",
+            "Medico": "Phip Glowacha",
+            "Reclamacao": "est congue element,um in",
+            "Medicamento": "Chlorpheniramine"
+        },
+        {
+            "Data": "2/3/2019",
+            "Medico": "Glennie Pering",
+            "Reclamacao": "donec ut maur,is",
+            "Medicamento": "Clindamycin"
+        },
+        {
+            "Data": "6/26/2019",
+            "Medico": "Maridel Ert",
+            "Reclamacao": "imperdiet sapie,n urna",
+            "Medicamento": "DRAXIMAGE MAA"
+        },
+        {
+            "Data": "7/20/2019",
+            "Medico": "Boris Wisniewski",
+            "Reclamacao": "magna at nunc ,commodo",
+            "Medicamento": "Griseofulvin"
+        },
+        {
+            "Data": "11/24/2018",
+            "Medico": "Jena Di Giacomo",
+            "Reclamacao": "nisl ut",
+            "Medicamento": "Lamivudine and Zidovudine"
+        },
+        {
+            "Data": "9/10/2019",
+            "Medico": "Jim Blandford",
+            "Reclamacao": "in eleifend quam a",
+            "Medicamento": "Night Time Cherry"
+        },
+        {
+            "Data": "6/25/2019",
+            "Medico": "Elroy Koppe",
+            "Reclamacao": "aliquam lacus ,morbi quis",
+            "Medicamento": "Azathioprine"
+        }
+    ]
+}
