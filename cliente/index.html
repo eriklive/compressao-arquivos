@@ -38,14 +38,10 @@
 <script src="converter.js"></script>
 <script src="portuguese-letter-frequency.js"></script>
 <script>
-    //Criando a árvore com o vocabulário padrão
-    const tree = trimtree(buildtree(sortfreq(portuguese_letter_frequency)));
     const httpHeader = new Headers();
     const fileReader = new FileReader();
 
     //Criando a tabela de conversão binário para texto
-    assigncodes(tree);
-
     document.getElementById("send_file").addEventListener("click", function () {
         const file = document.forms['select_cliente_file']['input_file'].files[0];
         const htmlTableBody = document.getElementById("tbody");
@@ -54,6 +50,12 @@
         if (file.type.match(textType)) {
             fileReader.onload = (event) => {
                 const originalAsString = fileReader.result.toLowerCase();
+
+                w = frequency(originalAsString);
+
+                const tree = trimtree(buildtree(sortfreq(w)));
+                assigncodes(tree);
+
                 originalAsBinary = encode(originalAsString);
 
                 //Esse passo é necessário para a sequencia binária ser de '8 em 8'
@@ -63,9 +65,10 @@
                 encodedAsString = binaryToString(originalAsBinary);
                 encodedAsBinary = stringToBinary(encodedAsString);
 
-                const data = new FormData()
-                data.append('file', new Blob([encodedAsString], {type : 'text/txt'}), 'joao cleber.txt') // o blob)
-                data.append('text', 'nome') // o blob)
+                const data = new FormData();
+
+                data.append('file', new Blob([encodedAsString], { type: 'text/txt' }));
+                data.append('file', new Blob([JSON.stringify(tree)], { type: 'text/txt' }),);
 
                 //sending
                 const httpRequisition = {
@@ -104,7 +107,6 @@
                 row.appendChild(collumThree);
                 row.appendChild(collumFour);
                 htmlTableBody.appendChild(row)
-
             }
 
             fileReader.readAsText(file);
