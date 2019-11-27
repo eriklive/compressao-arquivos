@@ -53,13 +53,13 @@
 
             assigncodes(tree);
 
-            originalAsBinary = encode(originalAsString);
+            originalEncoded = encode(originalAsString);
 
             //Esse passo e necessário para a sequencia binária ser de '8 em 8'
-            for (let i = 0; i < originalAsBinary.length % 8; i++)
-                originalAsBinary += '0';
+            for (let i = 0; i < originalEncoded.length % 8; i++)
+                originalEncoded += '0';
 
-            encodedAsString = binaryToString(originalAsBinary);
+            encodedAsString = binaryToString(originalEncoded);
             encodedAsBinary = stringToBinary(encodedAsString);
 
             sendToServer('huffman', encodedAsString, tree);

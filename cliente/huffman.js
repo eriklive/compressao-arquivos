@@ -1,6 +1,6 @@
 const codes = {};
 
-const frequency = (str) => {
+const calcFrequency = (str) => {
     var freqs = {};
 
     for (var i in str) {
@@ -8,6 +8,10 @@ const frequency = (str) => {
             freqs[str[i]] = 1;
         else
             freqs[str[i]] = freqs[str[i]] + 1;
+    }
+
+    for (var i in freqs) {
+        freqs[i] = +(freqs[i] / str.length).toFixed(4);
     }
 
     return freqs;

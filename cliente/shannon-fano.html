@@ -6,6 +6,7 @@
 
 <body>
     <div class="card">
+        <h2>Shannon-fano</h2>
         <h3>Selecione um prontuário (.txt) e clique em enviar</h3>
 
         <form name="select_cliente_file">
@@ -34,39 +35,39 @@
 
 </body>
 
-<script src="huffman.js"></script>
-<script src="doHttpRequest.js"></script>
-<script src="updateHtmlWithData.js"></script>
+<!-- <script src="huffman.js"></script> -->
+<script src="shannon-fano.js"></script>
 <script src="converter.js"></script>
 <script>
     const fileReader = new FileReader();
 
     document.getElementById("send_file").addEventListener("click", function () {
         const file = document.forms['select_cliente_file']['input_file'].files[0];
+        const htmlTableBody = document.getElementById("tbody");
+        var textType = /text.*/;
 
-        fileReader.onload = (event) => {
-            const originalAsString = fileReader.result.toLowerCase();
+        if (file.type.match(textType)) {
+            fileReader.onload = (event) => {
+                const originalAsString = fileReader.result.toLowerCase();
 
-            frequency = calcFrequency(originalAsString);
+                const freq = shannonFanoFrequency(originalAsString);
+                const tree = buildtree(freq);
 
-            const tree = trimtree(buildtree(sortfreq(frequency)));
+                assigncodes(tree);
 
-            assigncodes(tree);
+                originalEncoded = encode(originalAsString);
 
-            originalAsBinary = encode(originalAsString);
+                decoded = decode(tree, originalEncoded);
 
-            //Esse passo e necessário para a sequencia binária ser de '8 em 8'
-            for (let i = 0; i < originalAsBinary.length % 8; i++)
-                originalAsBinary += '0';
+                for (let i = 0; i < originalEncoded.length % 8; i++)
+                    originalEncoded += '0';
 
-            encodedAsString = binaryToString(originalAsBinary);
-            encodedAsBinary = stringToBinary(encodedAsString);
+                encodedAsString = binaryToString(originalEncoded);
+            }
 
-            sendToServer('huffman', encodedAsString, tree);
-            updateHtmlWithData(originalAsString, encodedAsString)
-        }
+            fileReader.readAsText(file);
+        } 
 
-        fileReader.readAsText(file);
     });
 </script>
 
